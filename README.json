@@ -1,0 +1,4802 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "abue-ammar/tinycast: 一个微小、完全原生的 macOS 启动器、快捷键和剪贴板历史",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T17:23:42Z",
+            "owner": "abue-ammar",
+            "repo": "tinycast",
+            "stars": 1539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tristan666666/agent-island: AI 编程智能体的状态伴侣，把 Claude Code、Codex、Antigravity、Grok 与 Cursor 的会话状态、轮到你提醒和本机用量收进 Mac 刘海或 Windows 托盘",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "August 1, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "certimate-go/certimate: 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T07:58:16Z",
+            "owner": "certimate-go",
+            "repo": "certimate",
+            "stars": 9028
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "digimata/quill: 极简主义 macOS 录音 + 转录。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-30T08:11:29Z",
+            "owner": "digimata",
+            "repo": "quill",
+            "stars": 3786
+          }
+        }
+      ],
+      "title": "July 31, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "boommanpro/gaia-workflow-engine: 一个现代化的可视化规则引擎平台，用于编排复杂的 AI 工作流。在无限画布上设计、测试和部署 AI 流程——无需编写代码。结合 flowgram.ai 的能力与 Java 服务端，提供生产级工作流管理。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T02:59:16Z",
+            "owner": "boommanpro",
+            "repo": "gaia-workflow-engine",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Licoy/StrokeMouse: macOS 鼠标手势自定义工具。按住该手势的触发键（默认右键，也可中键 / 侧键）绘制轨迹，匹配后执行快捷键、打开应用、窗口操作、媒体键、Shell / AppleScript 等",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-09T12:37:46Z",
+            "owner": "Licoy",
+            "repo": "StrokeMouse",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Choochmeque/tauri-plugin-notifications: 一个 Tauri v2 插件，用于在桌面和移动平台发送通知，支持系统通知以及通过 FCM 和 APNs 推送发送。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-11T08:37:48Z",
+            "owner": "Choochmeque",
+            "repo": "tauri-plugin-notifications",
+            "stars": 77
+          }
+        }
+      ],
+      "title": "July 18, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Yu9191/wloc: 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T12:53:22Z",
+            "owner": "Yu9191",
+            "repo": "wloc",
+            "stars": 8892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alienator88/Sentinel：一个用于控制 Gatekeeper、解隔离应用和签名应用的图形界面。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-05-11T16:21:53Z",
+            "owner": "alienator88",
+            "repo": "Sentinel",
+            "stars": 1721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fernfei/OnlyofficePersonal: ONLYOFFICE Personal 是一款基于 wasm 运行的 Office 办公套件，无需服务端直接运行。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-04T07:19:03Z",
+            "owner": "fernfei",
+            "repo": "OnlyofficePersonal",
+            "stars": 329
+          }
+        }
+      ],
+      "title": "July 6, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Devifyo/watchtower: 一个安全用于生产环境的仪表盘，集中管理你的 Laravel 应用后台发生的一切——定时任务、队列与作业，以及错误——并且还能直接修复它们。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-21T09:27:29Z",
+            "owner": "Devifyo",
+            "repo": "watchtower",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JustSteveKing/signal: Signal 是一个 PHP 库，可以将 PHP 属性转化为动态文档。使用 Signal 的属性为你的类和方法添加注释，然后只需运行一个命令即可生成始终与实际代码一致的 Markdown 和 JSON 文档。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-24T08:07:50Z",
+            "owner": "JustSteveKing",
+            "repo": "signal",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "manticorephp/compiler: 用纯 PHP 编写并基于 LLVM 后端的 PHP AOT 编译器",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T06:25:22Z",
+            "owner": "manticorephp",
+            "repo": "compiler",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHPCPD-NEXT/PHPCPD：phpcpd-next 是一个基于令牌的 PHP 8.5+ 代码复制粘贴（克隆）检测工具",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-19T18:03:46Z",
+            "owner": "phpcpd-next",
+            "repo": "phpcpd",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "July 4, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jlcodes99/cockpit-tools: 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T15:47:42Z",
+            "owner": "jlcodes99",
+            "repo": "cockpit-tools",
+            "stars": 15629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jiji262/douyin-downloader: 抖音批量下载工具，去水印，支持视频、图集、合集、音乐（原声）。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T15:17:49Z",
+            "owner": "jiji262",
+            "repo": "douyin-downloader",
+            "stars": 9339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ricccrd/dd: 在 Apple-Silicon macOS 上原生运行 Linux 容器，无需虚拟机。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-08T22:30:59Z",
+            "owner": "husklet",
+            "repo": "husklet",
+            "stars": 256
+          }
+        }
+      ],
+      "title": "July 3, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vorssaint/vorssaint-utils: 免费开源的 macOS 菜单栏工具包。支持按应用调节音量、系统监控、Dock 预览、保持唤醒、窗口切换（Alt Tab）、书架、应用卸载器等功能。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-13T03:51:54Z",
+            "owner": "vorssaint",
+            "repo": "vorssaint-utils",
+            "stars": 5188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eternityspring/article-tools: 一套封面制作和 x、微信公众号排版工具",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-03T07:16:46Z",
+            "owner": "eternityspring",
+            "repo": "article-tools",
+            "stars": 790
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sarensw/MacPacker: 适用于 macOS 的归档管理器。开放源代码，因为基本工具应该是免费的。预览（嵌套）归档文件，无需解压缩。提取单个文件",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-11T07:31:04Z",
+            "owner": "sarensw",
+            "repo": "MacPacker",
+            "stars": 555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hikariming/github-roast: 毒舌 GitHub 评分 🔥",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T06:36:34Z",
+            "owner": "hikariming",
+            "repo": "ghfind",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skyearn/BLEUnlock: 使用 iPhone、Apple Watch 或任何其他蓝牙 LE 设备锁定/解锁您的 Mac",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-08T04:51:02Z",
+            "owner": "Skyearn",
+            "repo": "BLEUnlock",
+            "stars": 171
+          }
+        }
+      ],
+      "title": "June 29, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "duongductrong/Snapzy: 一个开源的原生 macOS 截图和屏幕录制应用。CleanShot X 的替代品。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T18:23:32Z",
+            "owner": "duongductrong",
+            "repo": "Snapzy",
+            "stars": 2705
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "soniqo/speech-swift: 适用于 Apple Silicon 的 AI 语音工具包——ASR、TTS、语音到语音、VAD 和说话人分离，基于 MLX 和 CoreML 驱动",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-09T13:27:59Z",
+            "owner": "soniqo",
+            "repo": "speech-swift",
+            "stars": 1116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "muglug/pzoom: 一个用 Rust 编写的快速实验性 PHP 静态分析器，是 Psalm 的移植版本",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-02T12:53:29Z",
+            "owner": "muglug",
+            "repo": "pzoom",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "June 27, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "palmier-io/palmier-pro: 专为 AI 打造的 macOS 视频编辑器",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-13T02:33:09Z",
+            "owner": "palmier-io",
+            "repo": "palmier-pro",
+            "stars": 13433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ronitsingh10/FineTune: FineTune 是一款 macOS 菜单栏应用，支持按应用音量控制、多设备输出、音频路由和 10 波段均衡器。它是 SoundSource 的免费开源替代品。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-09T07:54:56Z",
+            "owner": "ronitsingh10",
+            "repo": "FineTune",
+            "stars": 8657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "samyak2403/RepoStore: 探索在 GitHub 发布的应用，查看发布详情，并即时安装 APK——一站式体验。采用纯 Kotlin 开发，针对现代 Android 设备进行了优化。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-24T17:36:46Z",
+            "owner": "samyak2403",
+            "repo": "RepoStore",
+            "stars": 1222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nigh/show-me-the-story: 自托管 AI 小说生成器：单一 Go 二进制文件 + 网页界面。兼容 OpenAI API → 大纲 → 按章节写作，支持审查、伏笔、事实核查和全书润色。支持中英文。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T16:52:54Z",
+            "owner": "Nigh",
+            "repo": "show-me-the-story",
+            "stars": 463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lcl-101/Proxy-Sync-Daemon: psync 是一个运行在后台的轻量级系统代理变化监听与全自动同步守护进程（CLI 工具 / 托盘后台程序），旨在解决开发者在开启系统代理后，终端和各类包管理器（Git, NPM, Docker, Cargo 等）由于网络割裂导致连接超时（Connection Timeout）的痛点。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-17T08:42:54Z",
+            "owner": "lcl-101",
+            "repo": "Proxy-Sync-Daemon",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "June 18, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nilaoda/N_m3u8DL-RE: 跨平台的 DASH/HLS/MSS 下载工具。支持点播、直播（DASH/HLS）。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-03T13:43:16Z",
+            "owner": "nilaoda",
+            "repo": "N_m3u8DL-RE",
+            "stars": 8549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XiaoYouChR/Ghost-Downloader-3: 使用 Python 和 Qt 构建的人工智能增强型跨平台多协议流畅设计并发下载器。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:08:39Z",
+            "owner": "XiaoYouChR",
+            "repo": "Ghost-Downloader-3",
+            "stars": 8241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vitodeploy/vito: Vito 是一个自托管的网页应用，帮助你管理服务器并将 PHP 应用轻松部署到生产服务器。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T08:10:21Z",
+            "owner": "vitodeploy",
+            "repo": "vito",
+            "stars": 3184
+          }
+        }
+      ],
+      "title": "June 12, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GyulyVGC/sniffnet: 一款方便您监控网络流量的应用程序。跨平台。直观易用。可靠稳定。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T18:16:53Z",
+            "owner": "GyulyVGC",
+            "repo": "sniffnet",
+            "stars": 40523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "beclab/Olares: Olares 是一个开源的个人云操作系统，旨在让您能够在本地拥有和管理您的数字资产。与依赖公共云服务不同，您可以在 Olares 上本地部署强大的开源替代方案，例如用于托管大语言模型的 Ollama、用于图像生成的 ComfyUI，以及用于私有 AI 搜索和推理的 Vane（前身为 Perplexica）。想象一下云的强大功能，但完全由您掌控。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:21:53Z",
+            "owner": "beclab",
+            "repo": "Olares",
+            "stars": 5208
+          }
+        }
+      ],
+      "title": "June 9, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tddworks/baguette: 无界面的 iOS 模拟器管理/集群，加上主机端输入注入，支持 iOS 26——可以进行点击、滑动、多指手势操作，还能实现 60 帧每秒的视频流。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-11T14:33:30Z",
+            "owner": "tddworks",
+            "repo": "baguette",
+            "stars": 1636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chentao1006/Sidey: 一款专为 macOS 设计的轻量级、具备上下文感知能力的 AI 助手",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-03T09:13:53Z",
+            "owner": "chentao1006",
+            "repo": "Sidey",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NoopApp/noop: NOOP 是一款独立的、完全离线的 WHOOP 腕带（4.0 和 5.0）伴侣应用。它通过蓝牙直接与腕带配对，将所有数据存储在您自己的设备上的 SQLite 数据库中，导入您现有的 WHOOP 和 Apple Health 历史记录，并在本地计算恢复、压力、HRV 和睡眠，无需 WHOOP 账户，也无需连接 WHOOP 云。",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "June 8, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PeteBishwhip/laradocs: 在你的 Laravel 代码库中维护美观且有版本控制的文档。用 Markdown 编写文档，将其与所描述的代码一起提交，Laradocs 会在（或你喜欢的任何位置）提供一个精美的文档站点。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T21:44:07Z",
+            "owner": "PeteBishwhip",
+            "repo": "laradocs",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MenkeTechnologies/zsh-more-completions: 世界上最大的 zsh 补全集合",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-16T03:54:14Z",
+            "owner": "MenkeTechnologies",
+            "repo": "zsh-more-completions",
+            "stars": 59
+          }
+        }
+      ],
+      "title": "June 5, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Monica-Pass/Monica: Monica-Pass/Monica: 聚合 Bitwarden 与 KeePass 的本地优先密码库",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T11:45:15Z",
+            "owner": "Monica-Pass",
+            "repo": "Monica",
+            "stars": 903
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "staabm/phpstan-dba: 基于 PHPStan 的 SQL 静态分析和数据库访问层的类型推断",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T13:47:32Z",
+            "owner": "staabm",
+            "repo": "phpstan-dba",
+            "stars": 297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SanderMuller/laravel-fluent-validation: 使用 IDE 自动补全编写 Laravel 验证规则，无需记忆字符串语法。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-18T12:38:26Z",
+            "owner": "SanderMuller",
+            "repo": "laravel-fluent-validation",
+            "stars": 214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JacobJoergensen/laravel-paper: JacobJoergensen/laravel-paper: Laravel Paper 是一个为 Eloquent 添加平面文件驱动支持的 Laravel 包。它支持 Markdown 和 JSON 文件，并可在 PHP 8.4+ 的 Laravel 12+ 上运行。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-05T06:28:10Z",
+            "owner": "JacobJoergensen",
+            "repo": "laravel-paper",
+            "stars": 99
+          }
+        }
+      ],
+      "title": "June 3, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "himomohi/AirTranslate: AirTranslate 可以捕获 Mac 正在播放的音频，实时转写并翻译，也可以通过悬浮字幕窗口显示结果。它适用于会议、课程、视频、采访和直播等场景，避免通过外部麦克风转录造成的麻烦和音质损失。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-09T15:04:29Z",
+            "owner": "himomohi",
+            "repo": "AirTranslate",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shipfastlabs/parsel: 一个快速、实用且开源的 PHP 文档解析器",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-05T11:25:30Z",
+            "owner": "shipfastlabs",
+            "repo": "parsel",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EYHN/appshots: macOS 菜单栏应用，用于捕捉应用快照，包括屏幕截图和辅助功能状态",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-05-24T12:26:34Z",
+            "owner": "EYHN",
+            "repo": "appshots",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thisisjsimon/InputGuard: thisisjsimon/InputGuard: 此应用程序在后台运行，以防止 macOS 将麦克风切换到蓝牙耳机。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-05-14T20:03:11Z",
+            "owner": "thisisjsimon",
+            "repo": "InputGuard",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "May 30, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "github/app: GitHub Copilot 应用是一款用于代理驱动开发的桌面应用程序，将并行工作流、GitHub 集成和 PR 生命周期管理集于一体。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T09:50:52Z",
+            "owner": "github",
+            "repo": "app",
+            "stars": 2001
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProxymanApp/atlantis: 无需代理即可捕获来自 iOS 应用的 HTTP/HTTPS 和 Websocket。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-13T09:23:31Z",
+            "owner": "ProxymanApp",
+            "repo": "atlantis",
+            "stars": 1576
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kayw-geek/phpstan-type-trace: 你可以在代码中追踪任何变量的类型变化——再也不用猜 PHPStan 为什么认为它是 mixed 类型了。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-27T01:16:08Z",
+            "owner": "kayw-geek",
+            "repo": "phpstan-type-trace",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "May 22, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "realskyrin/capcap: 一款轻量级的原生 macOS 截图工具，就在你的菜单栏中。双击 ⌘ 命令可截取屏幕的任何区域，并立即复制到剪贴板，或先用钢笔和马赛克工具进行注释。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-13T00:18:42Z",
+            "owner": "realskyrin",
+            "repo": "capcap",
+            "stars": 800
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iliaal/fastjson: 针对 PHP 8.3+ 的快速 JSON 编码/解码/验证，由 yyjson 提供支持。作为 ext/json 的即插即用替代方案，提供命名空间的 fastjson_* 函数和兼容 json_last_error 的错误报告。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T23:18:39Z",
+            "owner": "iliaal",
+            "repo": "fastjson",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "May 20, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "darrylmorley/whatcable: macOS 菜单栏应用程序，用简单的英语告诉你每根插入 Mac 的 USB-C 数据线实际能做什么",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-13T00:08:10Z",
+            "owner": "darrylmorley",
+            "repo": "whatcable",
+            "stars": 8337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "steipete/BlackBar: 一个小型的原生 macOS 菜单栏应用程序，可监视您的 Blacksmith CI 跑步者和公共 Blacksmith 状态页面 - 因此您可以在队列耗尽之前知道是否要合并、重新运行或散步。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-03T01:51:58Z",
+            "owner": "steipete",
+            "repo": "BlackBar",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "May 11, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mengxi-ream/read-frog: 🐸 陪读蛙 - 开源沉浸式翻译",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:24:28Z",
+            "owner": "mengxi-ream",
+            "repo": "read-frog",
+            "stars": 9155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "steipete/RepoBar: 在菜单栏和终端中直接显示 GitHub 仓库的状态：持续集成、问题、拉取请求、最新发布。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-10T15:21:21Z",
+            "owner": "steipete",
+            "repo": "RepoBar",
+            "stars": 2171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lara-zeus/zeus: 一个独立应用程序，一个入门套件；它已经预先配置好，可以运行所有 Zeus 套件以及一些额外的福利。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-24T23:42:39Z",
+            "owner": "lara-zeus",
+            "repo": "zeus",
+            "stars": 86
+          }
+        }
+      ],
+      "title": "May 10, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "xingkongliang/skills-manager: 一款轻量级桌面应用程序，用于管理、同步和组织 15 种以上编码工具中的人工智能代理技能，包括 Cursor、Claude Code、Codex、Copilot 等。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T04:06:42Z",
+            "owner": "xingkongliang",
+            "repo": "skills-manager",
+            "stars": 3701
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imjuya/juya-ai-daily: 记录人类完蛋全过程。",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "May 8, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hmbown/DeepSeek-TUI: 适用于 DeepSeek 模型的编码代理，可在您的终端运行",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T14:00:30Z",
+            "owner": "Hmbown",
+            "repo": "CodeWhale",
+            "stars": 40716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TableProApp/TablePro: 为每天使用数据库的开发者提供的原生数据库客户端。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T16:06:47Z",
+            "owner": "TableProApp",
+            "repo": "TablePro",
+            "stars": 5451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nandieling/OmniPlay: 览影：支持 mac、win 双平台的海报墙视频播放器",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-06-26T07:49:56Z",
+            "owner": "nandieling",
+            "repo": "OmniPlay",
+            "stars": 134
+          }
+        }
+      ],
+      "title": "May 6, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jegly/Box: 适用于 Android 的私有本地 AI 套件。基于 Google AI Edge Gallery 的分支，集成 llama.cpp、whisper.cpp、stable-diffusion.cpp、支持 GGUF 导入、语音聊天、视觉 AI、本地图片生成、生物识别锁、加密历史记录，以及 NPU/TPU/GPU 加速。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-10T12:29:23Z",
+            "owner": "jegly",
+            "repo": "Box",
+            "stars": 749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sambigeara/pollen: 分布式 WASM 运行时。工作负载在零信任网格上自我部署。一个静态二进制文件。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T08:56:45Z",
+            "owner": "Sambigeara",
+            "repo": "pollen",
+            "stars": 377
+          }
+        }
+      ],
+      "title": "May 3, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "codeErrorSleep/dbpaw: 一个快速、现代的数据库客户端，支持可选的 AI 辅助功能",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-21T07:43:18Z",
+            "owner": "codeErrorSleep",
+            "repo": "dbpaw",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spatie/laravel-blade-comments: 在查看已渲染页面的 HTML 时，你可能不再容易看出哪个 Blade 视图负责哪些 HTML。这个包会在每个渲染视图的前后添加 HTML，这样你可以立即知道应该去哪个 Blade 视图或组件修改输出。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-26T09:47:19Z",
+            "owner": "spatie",
+            "repo": "laravel-blade-comments",
+            "stars": 180
+          }
+        }
+      ],
+      "title": "April 29, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gogpu/ui: 纯 Go GUI 工具包，基于 GoGPU——包含控件、布局和样式",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T10:11:29Z",
+            "owner": "gogpu",
+            "repo": "ui",
+            "stars": 421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YanGusik/laravel-spawn: Laravel Spawn 是由 PHP TrueAsync 提供支持的 Laravel 异步运行时。它在单个工作进程内以隔离的协程并发运行多个请求，消除了共享状态问题，同时无需线程或进程开销即可实现高性能。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T08:34:26Z",
+            "owner": "YanGusik",
+            "repo": "laravel-spawn",
+            "stars": 72
+          }
+        }
+      ],
+      "title": "April 28, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "maillab/cloud-mail: 只需要一个域名，就可以创建多个不同的邮箱，类似各大邮箱平台，本项目支持署到 Cloudflare Workers，降低服务器成本，搭建自己的邮箱服务",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T21:43:29Z",
+            "owner": "maillab",
+            "repo": "cloud-mail",
+            "stars": 13369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "open-webui/desktop: 您的 AI，就在您的桌面上。以原生应用方式打开 WebUI。本地运行模型或连接到任何服务器。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-05-06T13:57:37Z",
+            "owner": "open-webui",
+            "repo": "desktop",
+            "stars": 2529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gridex/gridex: 一个使用 Swift 和 AppKit 构建的原生 macOS / Windows / Linux 数据库 IDE。通过一个快速、键盘驱动的界面，从单一应用连接到 PostgreSQL、MySQL、SQLite 和 Redis。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-02T09:27:06Z",
+            "owner": "gridex",
+            "repo": "gridex",
+            "stars": 834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "g3ntrix/Loole: Loole 是一款现代化的高性能 SOCKS5 隧道，它利用 Google 云端硬盘作为隐蔽传输层，绕过网络限制。它提供优质的 macOS 使用体验，并配备自动化设置向导。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-24T03:59:02Z",
+            "owner": "g3ntrix",
+            "repo": "Loole",
+            "stars": 118
+          }
+        }
+      ],
+      "title": "April 27, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rtk-ai/rtk: CLI 代理，可在常见开发命令中减少 60-90% 的 LLM 令牌消耗。单一 Rust 二进制文件，无任何依赖。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T00:14:17Z",
+            "owner": "rtk-ai",
+            "repo": "rtk",
+            "stars": 75935
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cameroncooke/AXe: AXe 是一个用于通过苹果的私有辅助功能 API 与模拟器交互的命令行工具。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-21T19:00:20Z",
+            "owner": "cameroncooke",
+            "repo": "AXe",
+            "stars": 2126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nandanrmenon/florid: 使用干净的 Material 3 UI 从 F-Droid 存储库中浏览、搜索和安装开源 Android 应用程序。用 Flutter 建造。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-06-16T02:01:26Z",
+            "owner": "Nandanrmenon",
+            "repo": "florid",
+            "stars": 495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZekerTop/ai-cli-complete-notify: 面向 Claude Code / Codex / OpenCode / Gemini 的多通道 AI CLI 任务完成提醒，支持耗时阈值、桌面端与命令行、通用 Webhook（飞书/钉钉/企微）、Telegram、邮件、桌面/声音提示，配备自动监听日志，AI 摘要等功能",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T03:48:29Z",
+            "owner": "ZekerTop",
+            "repo": "ai-cli-complete-notify",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "suzuki-shunsuke/ghalint: ghalint 是一个命令行工具，用于检查 GitHub Actions 工作流程和 action.yaml 是否符合安全政策。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T17:48:12Z",
+            "owner": "suzuki-shunsuke",
+            "repo": "ghalint",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperManifolds/Burrow: Mullvad VPN 的轻量级本地 macOS WireGuard VPN 客户端。使用 SwiftUI 构建。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-04-29T16:25:53Z",
+            "owner": "SuperManifolds",
+            "repo": "Burrow",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "April 26, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Alishahryar1/free-claude-code: 一个轻量级代理，可将 Claude Code 的 Anthropic API 调用路由到 NVIDIA NIM（每分钟 40 次免费请求）、OpenRouter（数百种模型）、DeepSeek（直接 API）、LM Studio（完全本地）或 llama.cpp（本地支持 Anthropic 端点）。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:54:27Z",
+            "owner": "Alishahryar1",
+            "repo": "free-claude-code",
+            "stars": 45344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graykode/abtop: 它就像 htop 一样，但专门用于监控 AI 编码代理。可以实时监控 Claude Code & Codex CLI 的会话、令牌、上下文窗口、速率限制和端口。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-27T03:52:44Z",
+            "owner": "graykode",
+            "repo": "abtop",
+            "stars": 3442
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "suzuki-shunsuke/pinact: pinact 是一个命令行工具，用于编辑 GitHub 工作流和复合操作文件，并固定操作和可复用工作流的版本。pinact 还可以更新它们的版本并验证版本注释。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T01:04:05Z",
+            "owner": "suzuki-shunsuke",
+            "repo": "pinact",
+            "stars": 1162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "patrickhener/goshs: goshs 是一个单文件服务器，适用于你需要比 Python 的 SimpleHTTPServer 更强大但又不想配置 Apache 的场景。支持 HTTP/S、WebDAV、SFTP、SMB、基本认证、分享链接、DNS/SMTP 回调、NTLM 哈希捕获与破解——全部只需一个命令。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-06T15:17:33Z",
+            "owner": "goshs-labs",
+            "repo": "goshs",
+            "stars": 953
+          }
+        }
+      ],
+      "title": "April 25, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hua1995116/indiehackers-steps: 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-19T14:06:19Z",
+            "owner": "hua1995116",
+            "repo": "indiehackers-steps",
+            "stars": 3734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mouseww/anything-analyzer: 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T04:01:29Z",
+            "owner": "Mouseww",
+            "repo": "anything-analyzer",
+            "stars": 3499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AmintaCCCP/GithubStarsManager: 一个基于 AI 的 GitHub 星标仓库管理工具，帮助您更好地组织和管理您的 GitHub 星标项目。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T12:33:09Z",
+            "owner": "AmintaCCCP",
+            "repo": "GithubStarsManager",
+            "stars": 3313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "charlie0129/batt: 在苹果硅芯片的 MacBook 上控制和限制电池充电。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-21T14:26:14Z",
+            "owner": "charlie0129",
+            "repo": "batt",
+            "stars": 1648
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "T-Troll/alienfx-tools: Alienware 系统的灯光、风扇和电源控制工具及应用程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-28T09:04:59Z",
+            "owner": "T-Troll",
+            "repo": "alienfx-tools",
+            "stars": 835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hermes-webui/hermes-swift-mac: Hermes Web UI 的原生 macOS 桌面应用。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-18T19:27:04Z",
+            "owner": "hermes-webui",
+            "repo": "hermes-swift-mac",
+            "stars": 420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MrPunyapal/laravel-attributes-list: Laravel 框架中所有可用 PHP 属性的列表。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T16:58:50Z",
+            "owner": "MrPunyapal",
+            "repo": "laravel-attributes-list",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "goforj/str: 一个流畅的、受 Laravel 启发的 Go 字符串工具包，具有显式、符文安全的辅助函数和可预测的行为。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-01T04:47:21Z",
+            "owner": "goforj",
+            "repo": "str",
+            "stars": 152
+          }
+        }
+      ],
+      "title": "April 24, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "imfile-io/imfile-desktop: imFile 是一款功能全面的下载管理器，支持下载 HTTP、FTP、BitTorrent、Magnet、ed2k 等。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T22:41:05Z",
+            "owner": "imfile-io",
+            "repo": "imfile-desktop",
+            "stars": 4485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duxweb/codux：原生 macOS 终端工作区，专为 AI 编程工具打造 — 多项目管理、内置 Git、实时 AI 用量追踪。资源",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-21T07:49:29Z",
+            "owner": "duxweb",
+            "repo": "codux",
+            "stars": 391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mhersson/mpls: Markdown Preview Language Server（) 是一个旨在提升您的 Markdown 编辑体验的语言服务器。通过在浏览器中实时预览，您可以实时查看 Markdown 内容的渲染效果。无论您是在编写文档还是创建笔记，都能提供一个流畅且互动的环境。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-05T18:34:02Z",
+            "owner": "mhersson",
+            "repo": "mpls",
+            "stars": 231
+          }
+        }
+      ],
+      "title": "April 23, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awizemann/scarf: Hermes AI 代理的原生 macOS 图形界面——支持多窗口、多服务器（本地和通过 SSH 远程）。聊天、仪表盘、会话、记忆、定时任务、MCP 等功能。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T17:06:49Z",
+            "owner": "awizemann",
+            "repo": "scarf",
+            "stars": 803
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alexandre-daubois/ember: 🔥 Caddy 服务器的实时终端仪表板，内置 FrankenPHP 支持",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T10:51:40Z",
+            "owner": "alexandre-daubois",
+            "repo": "ember",
+            "stars": 377
+          }
+        }
+      ],
+      "title": "April 22, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lvboda/lizhi-mp3: 李志所有专辑（除 live 外）的 320K mp3 整理。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-01-29T13:19:59Z",
+            "owner": "lvboda",
+            "repo": "lizhi-mp3",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "heartleo/hn-cli: 黑客新闻的终端客户端",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T01:46:16Z",
+            "owner": "heartleo",
+            "repo": "hn-cli",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "April 21, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "foamzou/ITraffic-monitor-for-mac: 用于在 Mac 状态栏上显示进程流量的监视器",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-30T07:10:31Z",
+            "owner": "foamzou",
+            "repo": "ITraffic-monitor-for-mac",
+            "stars": 665
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "igor-php/igor-php: 专为 FrankenPHP 的 Worker 模式设计的静态分析和状态变更审计工具。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T12:10:54Z",
+            "owner": "igor-php",
+            "repo": "igor-php",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "morcen/passage: Passage 是一个轻量级的 Laravel API 网关包，可以将传入请求代理到外部服务。它为每个路由提供对 HTTP 方法、路径、请求转换和响应转换的控制——使用与 Laravel 本身类似的路由语法。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T02:09:36Z",
+            "owner": "morcen",
+            "repo": "passage",
+            "stars": 60
+          }
+        }
+      ],
+      "title": "April 20, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "altic-dev/FluidVoice: 最快的 macOS 离线语音输入应用 - 语音转文字完全本地化。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-13T00:06:34Z",
+            "owner": "altic-dev",
+            "repo": "FluidVoice",
+            "stars": 9632
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MrPunyapal/laravel-attributes-list: Laravel 框架中所有可用 PHP 属性的列表。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T16:58:50Z",
+            "owner": "MrPunyapal",
+            "repo": "laravel-attributes-list",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stonerl/Thaw: Thaw 是一个强大的菜单栏管理工具。虽然它的主要功能是隐藏和显示菜单栏项目，但它旨在涵盖各种附加功能，使其成为最具多功能性的菜单栏工具之一。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-05T10:53:46Z",
+            "owner": "stonerl",
+            "repo": "Thaw",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "April 19, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dortania/OpenCore-Legacy-Patcher: 我们项目的主要目标是为苹果不再支持的 Mac 注入新活力，使 2007 年及更早的机器也能安装和使用 macOS Big Sur 及更新版本。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-19T16:31:59Z",
+            "owner": "dortania",
+            "repo": "OpenCore-Legacy-Patcher",
+            "stars": 17976
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "palemoky/fight-the-landlord: 🃏 让斗地主回归纯粹 - 无控牌，真公平 ⚖️",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-01T11:12:06Z",
+            "owner": "palemoky",
+            "repo": "fight-the-landlord",
+            "stars": 577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnInsomniacy/motrix-next-extension: Motrix Next 浏览器扩展——通过智能过滤和实时控制拦截和重定向下载",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-12T10:20:51Z",
+            "owner": "AnInsomniacy",
+            "repo": "motrix-next-extension",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kookob/rzsz: rzsz 是经典 Unix 文件传输工具 lrzsz 的现代化 Rust 重写。通过 ZModem、XModem、YModem 协议在终端连接上传输文件。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-28T17:03:27Z",
+            "owner": "kookob",
+            "repo": "rzsz",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "April 18, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Guovin/iptv-api: ⚡️IPTV 直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI 多端部署",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T08:10:44Z",
+            "owner": "Guovin",
+            "repo": "iptv-api",
+            "stars": 24851
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github/gh-stack: 用于管理堆叠分支和拉取请求的 GitHub CLI 扩展。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T03:10:40Z",
+            "owner": "github",
+            "repo": "gh-stack",
+            "stars": 1243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "odvcencio/gotreesitter: 纯 Go tree-sitter 运行时。无 CGo，无 C 语言工具链。可交叉编译至 Go 支持的任何 GOOS/GOARCH 目标，包括 wasip1。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T02:23:05Z",
+            "owner": "odvcencio",
+            "repo": "gotreesitter",
+            "stars": 552
+          }
+        }
+      ],
+      "title": "April 17, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ImranR98/Obtainium: Obtainium 允许你直接从应用的发布页面安装和更新应用，并在有新版本发布时收到通知。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-10T02:55:19Z",
+            "owner": "ImranR98",
+            "repo": "Obtainium",
+            "stars": 18925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brkgng/ScrollSnap: 一款用于捕捉和拼接滚动截图的 macOS 应用。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-02T19:03:22Z",
+            "owner": "Brkgng",
+            "repo": "ScrollSnap",
+            "stars": 894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lbr77/SideImpactor: 基于浏览器的 IPA 签名与安装。通过 WebUSB 连接 iOS 设备，使用您的苹果开发者账号进行签名，并在同一个网页上完成安装。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-29T05:15:05Z",
+            "owner": "lbr77",
+            "repo": "SideImpactor",
+            "stars": 570
+          }
+        }
+      ],
+      "title": "April 16, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Loongphy/codex-auth: 用于切换和管理 Codex 账户的 CLI 工具",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2026-07-23T08:31:34Z",
+            "owner": "Loongphy",
+            "repo": "codex-auth",
+            "stars": 2469
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geodro/lerd: 开源的、类似 Herd 的本地 PHP 开发环境，适用于 Linux 和 macOS。自动 .test 域名、按项目隔离的 PHP/Node、单命令 TLS。原生支持 Podman，无需 root 权限。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T14:57:26Z",
+            "owner": "lerd-env",
+            "repo": "lerd",
+            "stars": 869
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bruits/sampo: 自动化变更日志、版本管理和发布——即使是跨多个包注册表的 monorepo 也能轻松应对。目前支持的生态系统包括：Rust（Crates）、JavaScript/TypeScript（npm）、Elixir（Hex）、Python（PyPI）、PHP（Packagist）……更多即将支持！",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T17:45:16Z",
+            "owner": "bruits",
+            "repo": "sampo",
+            "stars": 219
+          }
+        }
+      ],
+      "title": "April 15, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "whoeevee/EeveeSpotifyReborn: 此修改让 Spotify 认为你拥有高级订阅，免费收听音乐，就像 Spotilife 一样，并提供一些额外功能，如自定义歌词。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2025-12-26T16:38:37Z",
+            "owner": "whoeevee",
+            "repo": "EeveeSpotifyReborn",
+            "stars": 2372
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lifedever/health-tick-release: macOS 菜单栏久坐提醒工具 久坐提醒 · 强制休息 · 习惯养成",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-11T12:54:50Z",
+            "owner": "lifedever",
+            "repo": "health-tick-release",
+            "stars": 434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lifedever/PasteMemo-app: macOS 智能剪贴板管理器",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-11T17:14:08Z",
+            "owner": "lifedever",
+            "repo": "PasteMemo-app",
+            "stars": 270
+          }
+        }
+      ],
+      "title": "April 14, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ninxsoft/Mist: 一个自动下载 macOS 固件/安装程序的 Mac 工具。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-07T18:48:06Z",
+            "owner": "ninxsoft",
+            "repo": "Mist",
+            "stars": 5126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yattee/yattee: 面向隐私的 iOS、tvOS 和 macOS 视频播放器",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-03T21:55:45Z",
+            "owner": "yattee",
+            "repo": "yattee",
+            "stars": 3629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OnionBrowser/OnionBrowser: 一款开源、增强隐私的 iOS 网页浏览器，利用 Tor 匿名网络",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-11T16:26:21Z",
+            "owner": "OnionBrowser",
+            "repo": "OnionBrowser",
+            "stars": 2648
+          }
+        }
+      ],
+      "title": "April 13, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "momenbasel/PureMac: 免费开源的 macOS 清理工具。CleanMyMac 的替代品，无任何遥测。原生 SwiftUI，支持定时自动清理，清理 Xcode/Homebrew/系统缓存。MIT 许可。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T06:45:58Z",
+            "owner": "momenbasel",
+            "repo": "PureMac",
+            "stars": 5717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dodo-reach/hermes-desktop: Hermes 的原生 Mac 工作区：真正的 SSH，真正的终端，真正的会话数据。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-06-19T10:52:35Z",
+            "owner": "dodo-reach",
+            "repo": "hermes-desktop",
+            "stars": 1992
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "momenbasel/keyFinder: Chrome 扩展程序，可在你访问的每个页面上被动发现泄露的 API 密钥、令牌和机密信息。支持 80 多种模式。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-19T03:09:26Z",
+            "owner": "momenbasel",
+            "repo": "keyFinder",
+            "stars": 697
+          }
+        }
+      ],
+      "title": "April 12, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "zellij-org/zellij: Zellij 是一个工作空间，面向开发人员、面向操作人员以及所有热爱终端的人。类似的程序有时也被称为 \"终端复用器\"。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T10:26:33Z",
+            "owner": "zellij-org",
+            "repo": "zellij",
+            "stars": 34864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrankZ/li-calendar: 跨平台的桌面日历，支持显示农历、节假日、调休、节气等信息",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-09T14:28:23Z",
+            "owner": "CrankZ",
+            "repo": "li-calendar",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chentao1006/Quitty: Quitty 是一款轻量级、现代化的 macOS 工具，在应用程序最后一个窗口关闭时自动终止该应用程序。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-03T08:25:08Z",
+            "owner": "chentao1006",
+            "repo": "Quitty",
+            "stars": 69
+          }
+        }
+      ],
+      "title": "April 10, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "safishamsi/graphify: AI 编码助手技能（Claude Code、Codex、OpenCode、OpenClaw、Factory Droid、Trae）。将任何代码、文档、论文或图片文件夹转换为可查询的知识图谱",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:28:38Z",
+            "owner": "Graphify-Labs",
+            "repo": "graphify",
+            "stars": 105734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "farzaa/clicky: 它是一个人工智能老师，就像你的伙伴一样陪伴在你的鼠标旁边。它可以看到你的屏幕、和你交流，甚至还能指点东西。有点像真的老师就在你身边。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-04-28T19:33:33Z",
+            "owner": "farzaa",
+            "repo": "clicky",
+            "stars": 7347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lifedever/TaskTick: macOS 原生定时任务管理应用 无需 crontab，无需 launchd，交给 TaskTick。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-27T13:46:07Z",
+            "owner": "lifedever",
+            "repo": "TaskTick",
+            "stars": 450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marvinngg/ambient-voice: macOS 系统的本地环境声音输入与会议转录功能 — 采用了 Apple 语音分析器、Vision 光学字符识别以及 FluidAudio 话筒声源分离技术，完全在本地设备上处理。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-05-27T06:41:42Z",
+            "owner": "Marvinngg",
+            "repo": "ambient-voice",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sebastianbergmann/git-state: 用于描述 Git 签出状态的库。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T06:02:33Z",
+            "owner": "sebastianbergmann",
+            "repo": "git-state",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glanceway/glanceway-sources: 轻量级 macOS 菜单栏应用，聚合 Hacker News、GitHub、Reddit、RSS 订阅、股票行情、加密货币、开发者工具等信息源。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-11T14:58:04Z",
+            "owner": "glanceway",
+            "repo": "glanceway-sources",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "April 9, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mahonzhan/awesome-coding-plan: 各厂家 Coding Plan 实际价值对比",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-05T04:42:53Z",
+            "owner": "mahonzhan",
+            "repo": "awesome-coding-plan",
+            "stars": 2636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cat3399/blbl: 一个使用原生 Android 开发的哔哩哔哩安卓客户端，支持触摸、遥控，以及安卓 5",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2026-07-25T13:53:19Z",
+            "owner": "cat3399",
+            "repo": "blbl",
+            "stars": 2586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "borawong/AiMaMi: 为 OpenAI Codex 打造的桌面伴侣。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T01:51:26Z",
+            "owner": "borawong",
+            "repo": "AiMaMi",
+            "stars": 1444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Liubsyy/M3U8Quicker: M3U8 下载器，支持多线程下载、断点续传、边下边播",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T15:39:45Z",
+            "owner": "Liubsyy",
+            "repo": "M3U8Quicker",
+            "stars": 195
+          }
+        }
+      ],
+      "title": "April 7, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Turbo1123/roubao: 首款无需电脑的开源 AI 手机自动化助手",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-01-08T10:44:44Z",
+            "owner": "Turbo1123",
+            "repo": "roubao",
+            "stars": 2309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pixelspark/sushitrain: 使用 Syncthing 在 iOS 设备上安全同步文件",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-06T18:39:03Z",
+            "owner": "pixelspark",
+            "repo": "sushitrain",
+            "stars": 1985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DimensionDev/Flare: 在一个应用中浏览 Mastodon、Bluesky、X、Misskey、Nostr 和 RSS。一个时间线，所有账户，跨平台同步发布。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T03:31:19Z",
+            "owner": "DimensionDev",
+            "repo": "Flare",
+            "stars": 1449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XueshiQiao/AnyDrag: 按住修饰键，拖动窗口任意位置即可移动窗口，无需拖拽标题栏。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-27T07:34:55Z",
+            "owner": "XueshiQiao",
+            "repo": "AnyDrag",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "94xy/xykt: 基于 Apple VisionKit 的 macOS 抠图",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-04-01T00:16:01Z",
+            "owner": "94xy",
+            "repo": "xykt",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "April 6, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tforschbach/CodexRemote: 使用你的 iPhone 作为 Mac 上本地 Codex 运行时的遥控器。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-04-16T23:27:44Z",
+            "owner": "tforschbach",
+            "repo": "CodexRemote",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "leemysw/token-share: Token-Share：一个原生 macOS 菜单栏 LLM API 网关 —— 在本地翻译并流式传输 OpenAI 聊天补全、OpenAI 响应和 Anthropic 消息协议之间的数据。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-06-03T13:37:14Z",
+            "owner": "zuuzii-org",
+            "repo": "token-share",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ryangjchandler/blade-parser.rs: 一个用 Rust 编写的 Laravel Blade 模板解析器。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-04T20:36:38Z",
+            "owner": "ryangjchandler",
+            "repo": "blade-parser.rs",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "April 5, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "protonemedia/laravel-xss-protection: Laravel 中间件可保护您的应用免受跨站脚本攻击（XSS）。它通过使用 voku/anti-xss 包来清理请求输入，并且也可以清理 Blade 的 echo 语句。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-03T09:41:18Z",
+            "owner": "protonemedia",
+            "repo": "laravel-xss-protection",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jigar-dhulla/laravel-http-to-curl: Laravel HTTP 请求到 Curl 命令",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-23T16:12:56Z",
+            "owner": "jigar-dhulla",
+            "repo": "laravel-http-to-curl",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "April 4, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "canyonroad/agentsh: AI 代理的执行层安全（ELS）——带有审计的策略强制 Shell。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-06T15:55:40Z",
+            "owner": "canyonroad",
+            "repo": "agentsh",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aschmelyun/liminal: 基于浏览器的 Laravel 集成开发环境。PHP 8.4 完全在 WebAssembly 中运行 - 无需服务器、无需安装、无需上传。无需离开标签页，即可编写、运行和预览 Laravel 应用程序。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-10T17:17:07Z",
+            "owner": "aschmelyun",
+            "repo": "liminal",
+            "stars": 208
+          }
+        }
+      ],
+      "title": "April 3, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "openai/codex-plugin-cc: 使用 Claude Code 的 Codex 来审查代码或分配任务。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-08T00:17:31Z",
+            "owner": "openai",
+            "repo": "codex-plugin-cc",
+            "stars": 31780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "szhshp/panda-video-generator: 熊猫视频自动化引擎：用程序员的方式帮你自动化视频创作与发布",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T16:08:23Z",
+            "owner": "szhshp",
+            "repo": "panda-video-generator",
+            "stars": 276
+          }
+        }
+      ],
+      "title": "April 2, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "osaurus-ai/osaurus: 拥有你的 AI。原生 macOS AI 代理管理工具——支持任何模型，持久记忆，自主执行，密码身份认证。采用 Swift 开发。完全离线。开源。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-13T04:02:17Z",
+            "owner": "osaurus-ai",
+            "repo": "osaurus",
+            "stars": 7607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nunomaduro/pao: PAO 是针对 PHP 测试工具的代理优化输出。它适用于任何 PHP 项目--Laravel、Symfony、vanilla PHP 或其他任何使用 PHPUnit、Pest 或 Paratest 的项目。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T23:58:39Z",
+            "owner": "laravel",
+            "repo": "pao",
+            "stars": 679
+          }
+        }
+      ],
+      "title": "April 1, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DetachHead/rebased: 该项目旨在成为短暂存在的 JetBrains Git 客户端的开源重制版。它基本上就是一个 JetBrains IDE，移除了所有捆绑插件，只保留了 Git 集成，并进行了一些额外的界面调整。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T05:38:00Z",
+            "owner": "DetachHead",
+            "repo": "rebased",
+            "stars": 4919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "electrikmilk/cherri: Siri 快捷指令编程语言 🍒",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-29T19:24:05Z",
+            "owner": "electrikmilk",
+            "repo": "cherri",
+            "stars": 1581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "electrikmilk/cherri-macos-app: Cherri Shortcuts 编程语言的 IDE",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-01-12T00:05:55Z",
+            "owner": "electrikmilk",
+            "repo": "cherri-macos-app",
+            "stars": 75
+          }
+        }
+      ],
+      "title": "March 31, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "manaflow-ai/cmux: 基于 Ghostty 的 macOS 终端，支持垂直选项卡和 AI 编码代理的通知功能",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-13T04:06:41Z",
+            "owner": "manaflow-ai",
+            "repo": "cmux",
+            "stars": 25990
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "larksuite/cli: 一个为 Lark/飞书开放平台打造的命令行工具——专为人类和 AI 代理设计。涵盖包括消息、文档、Base、表格、日历、邮件、任务、会议等核心业务领域，拥有 200 多个命令和 19 项 AI 代理技能。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:07:49Z",
+            "owner": "larksuite",
+            "repo": "cli",
+            "stars": 16411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openilink/openilink-hub: 微信 ClawBot iLink 协议的开源消息管理平台 + App 应用市场",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-18T17:22:25Z",
+            "owner": "openilink",
+            "repo": "openilink-hub",
+            "stars": 1539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HMAKT99/UnTouchID: 使用您的手机指纹在任何 Mac 上进行身份验证——sudo、屏幕保护程序、App Store。无需 $199 的 Magic Keyboard。支持 iPhone、Android、Apple Watch、Wear OS 或任何浏览器。兼容 MacBook Neo。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-05T15:55:22Z",
+            "owner": "HMAKT99",
+            "repo": "UnTouchID",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zappzerapp/laravel-ingest: 一个强大的、配置驱动的 Laravel ETL 和数据导入框架。支持 CSV/Excel 流式处理、队列、验证和关系管理。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-23T08:47:19Z",
+            "owner": "zappzerapp",
+            "repo": "laravel-ingest",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lifedever/PasteMemo: 适用于 macOS 的智能剪贴板管理器",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-11T17:04:55Z",
+            "owner": "lifedever",
+            "repo": "PasteMemo",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "joshembling/artisan-browse: 🔎 Artisan Browse 提供一个交互式终端界面，用于发现、搜索和执行所有 Laravel Artisan 命令。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-22T23:25:02Z",
+            "owner": "joshembling",
+            "repo": "artisan-browse",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "algoyounes/circuit-breaker: Circuit Breaker 是一个 Laravel 包，提供了一种简单高效的方式来管理服务调用并防止级联故障。它允许你为关键的断路器状态定义自定义回调，并使用断路器逻辑运行操作。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-02T14:59:31Z",
+            "owner": "algoyounes",
+            "repo": "circuit-breaker",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hazel-Lin/github-trending-radar: 它获取热门仓库，根据实用开发者画像进行评分，用中文生成推荐理由和行动建议，并通过 SMTP 发送摘要。",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "March 29, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "spatie/scotty: Scotty 将您的部署脚本传送到远程服务器。这是对 Laravel Envoy 的全新诠释，从头开始构建，拥有更好的输出、新的 bash 文件格式，以及暂停/恢复支持。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-02T06:58:54Z",
+            "owner": "spatie",
+            "repo": "scotty",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GromNaN/symfony-tui-games：使用 Symfony TUI 组件构建的终端游戏",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-08T20:00:03Z",
+            "owner": "GromNaN",
+            "repo": "symfony-tui-games",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "March 28, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FireRedTeam/FireRed-OpenStoryline: FireRed-OpenStoryline 是一款 AI 视频编辑代理，通过自然语言交互、LLM 驱动的规划和精准的工具协调，将手动编辑转变为意图驱动的导演。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T03:16:31Z",
+            "owner": "FireRedTeam",
+            "repo": "FireRed-OpenStoryline",
+            "stars": 3211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sw33tLie/macshot: 功能丰富的原生 macOS 截图工具——支持注释、自动遮盖个人敏感信息、录制 GIF、OCR+ 翻译、滚动截图、美化等。无 Electron，无订阅。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T15:32:38Z",
+            "owner": "sw33tLie",
+            "repo": "macshot",
+            "stars": 2903
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AJenbo/phpantom_lsp: 快速的 PHP 语言服务器，具备深度类型智能。支持泛型、Laravel、PHPStan 注解。瞬间即可使用。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T04:06:17Z",
+            "owner": "PHPantom-dev",
+            "repo": "phpantom_lsp",
+            "stars": 1095
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "visualdiffer/visualdiffer: 专为视觉比较文件夹和文件而设计的 macOS 应用程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-27T07:38:56Z",
+            "owner": "visualdiffer",
+            "repo": "visualdiffer",
+            "stars": 391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "visualdiffer/visualdiffer: 旨在直观比较文件夹和文件的 macOS 应用程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-27T07:38:56Z",
+            "owner": "visualdiffer",
+            "repo": "visualdiffer",
+            "stars": 391
+          }
+        }
+      ],
+      "title": "March 27, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gstory0404/Cinetry: Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件不提供任何数据，整合用户添加的媒体服务器（如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV）的功能。通过强大的数据导入、聚合搜索和一键切换功能，Cinetry 让用户能够轻松管理多台媒体服务器中的内容，并享受一致的用户体验，无论是在 Windows、macOS、Linux、TV、Android 还是 iOS 平台上。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-26T13:50:41Z",
+            "owner": "gstory0404",
+            "repo": "Cinetry",
+            "stars": 2802
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gstory0404/Cinetry: Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件不提供任何数据，整合用户添加的媒体服务器（如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV）的功能。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-26T13:50:41Z",
+            "owner": "gstory0404",
+            "repo": "Cinetry",
+            "stars": 2802
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "devgianlu/Aria2App: Aria2App 是一个基于 aria2 的高级下载管理器，也可以处理远程服务器。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-13T04:03:49Z",
+            "owner": "devgianlu",
+            "repo": "Aria2App",
+            "stars": 1550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ryanstephen/lil-agents: 生活在 macOS 程序坞上的微小人工智能伴侣",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-04-06T02:34:45Z",
+            "owner": "ryanstephen",
+            "repo": "lil-agents",
+            "stars": 1439
+          }
+        }
+      ],
+      "title": "March 26, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "abhigyanpatwari/GitNexus: GitNexus：零服务器代码智能引擎 - GitNexus 是一个完全在浏览器中运行的客户端知识图谱创建工具。只需导入一个 GitHub 仓库或 ZIP 文件，即可获得一个带有内置图谱 RAG 智能体的交互式知识图谱。非常适合代码探索。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:18:43Z",
+            "owner": "abhigyanpatwari",
+            "repo": "GitNexus",
+            "stars": 45333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rudrankriyam/App-Store-Connect-CLI: 快速、可脚本化的命令行工具，用于 App Store Connect API。自动化 TestFlight、构建、提交、签名、分析、截图、订阅等操作。以 JSON 为核心，无需交互式提示。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T19:42:58Z",
+            "owner": "rorkai",
+            "repo": "App-Store-Connect-CLI",
+            "stars": 5784
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tw93/Kaku: 🎃 一个为 AI 编程打造的快速即用型终端。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-09T01:25:11Z",
+            "owner": "tw93",
+            "repo": "Kaku",
+            "stars": 5758
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tiajinsha/JKVideo: 高颜值的第三方 B 站 React Native 客户端，支持安卓、H5、iOS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-12T13:55:07Z",
+            "owner": "tiajinsha",
+            "repo": "JKVideo",
+            "stars": 4997
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "raskrebs/sonar: 用于检查和管理监听本地主机端口服务的 CLI 工具",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-21T09:42:54Z",
+            "owner": "raskrebs",
+            "repo": "sonar",
+            "stars": 1090
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ezimuel/PHPVector: 一个纯 PHP 实现的向量数据库，采用 HNSW（分层可导航小世界）进行近似最近邻搜索，并使用 BM25 进行全文检索。两种引擎可以结合成一个混合搜索流程。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-27T13:31:08Z",
+            "owner": "ezimuel",
+            "repo": "PHPVector",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "March 24, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "chdsbd/kodiak: 🔮 一个自动更新和合并 GitHub PR 的机器人",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T23:45:46Z",
+            "owner": "chdsbd",
+            "repo": "kodiak",
+            "stars": 1106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cddqssc/Caption-Trans: 使用 AI 大模型翻译视频字幕。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-03-23T08:21:43Z",
+            "owner": "cddqssc",
+            "repo": "Caption-Trans",
+            "stars": 855
+          }
+        }
+      ],
+      "title": "March 23, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "naxiaoduo/1000UserGuide: 1000UserGuide：对独立开发者和创业者来说，找到前 1000 个早期用户太关键了。这里精心整理了 300 多个国内外渠道，适合独立开发者和创业者推广产品的渠道。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-22T08:48:42Z",
+            "owner": "naxiaoduo",
+            "repo": "1000UserGuide",
+            "stars": 3932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blitzdotdev/blitz-mac: 原生 macOS 应用程序，利用 AI 代理构建、测试和发布 iOS 应用",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-14T00:05:46Z",
+            "owner": "blitzdotdev",
+            "repo": "blitz-mac",
+            "stars": 1738
+          }
+        }
+      ],
+      "title": "March 22, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AnInsomniacy/motrix-next: 一个功能齐全的下载管理器",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T11:57:16Z",
+            "owner": "AnInsomniacy",
+            "repo": "motrix-next",
+            "stars": 9364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "saihgupr/DMGMaker: 一款高级的 macOS DMG 创建工具，支持实时渲染的 SwiftUI 背景、玻璃质感和 Retina 显示屏。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-05-10T16:31:14Z",
+            "owner": "saihgupr",
+            "repo": "DMGMaker",
+            "stars": 316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bitkoala/KoalaSnap: 纯粹的谷歌浏览器截图插件，支持三种截图模式",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-08T03:51:56Z",
+            "owner": "Bitkoala",
+            "repo": "KoalaSnap",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "March 20, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "chenhg5/cc-connect: 将本地 AI 编码代理（Claude Code、Cursor、Gemini CLI、Codex）连接到消息平台（飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信）。无需大多数平台的公网 IP，即可随时随地与您的 AI 开发助手聊天。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T02:04:17Z",
+            "owner": "chenhg5",
+            "repo": "cc-connect",
+            "stars": 14881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emanuele-web04/remodex: Codex 的远程控制。24/7 版本即将推出",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-10T15:35:01Z",
+            "owner": "Emanuele-web04",
+            "repo": "remodex",
+            "stars": 3283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hosmelq/laravel-pulse-schedule: 列出所有计划任务的 Laravel Pulse 卡。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-18T17:28:18Z",
+            "owner": "hosmelq",
+            "repo": "laravel-pulse-schedule",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "March 19, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "webadderall/Recordly: 一个免费的开源 Screen Studio 替代品，为你的屏幕录制添加自动缩放、光标动画等功能。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T19:56:55Z",
+            "owner": "webadderallorg",
+            "repo": "Recordly",
+            "stars": 20855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jiulingyun/openclaw-cn: 中文社区版 OpenClaw，同原版保持定期更新，已内置钉钉、企业微信、飞书、QQ 以及国内网络环境优化。你的专属个人 AI 助手。支持所有操作系统和平台。🦞",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-27T03:28:59Z",
+            "owner": "mf-yang",
+            "repo": "openclaw-cn",
+            "stars": 4727
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "red-explosion/laravel-sqids: 为您的 Laravel 模型轻松生成 Stripe/YouTube 外观 ID。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-26T22:22:24Z",
+            "owner": "red-explosion",
+            "repo": "laravel-sqids",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "March 18, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Eljakani/ward: 为 Laravel 构建的安全扫描器，能够检测错误配置、漏洞和泄露的机密信息，并配备美观的终端用户界面。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-22T10:46:52Z",
+            "owner": "Eljakani",
+            "repo": "ward",
+            "stars": 330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RightCapitalHQ/php-ast-viewer: PHP AST 查看器是一款用于查看 PHP 代码抽象语法树的工具。通过可视化代码结构，帮助开发者更深入地理解代码，从而提升代码质量和维护效率。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-16T07:15:08Z",
+            "owner": "RightCapitalHQ",
+            "repo": "php-ast-viewer",
+            "stars": 45
+          }
+        }
+      ],
+      "title": "March 16, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "yuzeguitarist/Deck: 一款现代化、原生、注重隐私的 macOS 剪贴板管理器。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-05-09T11:59:50Z",
+            "owner": "yuzeguitarist",
+            "repo": "Deck",
+            "stars": 1385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pronskiy/php-debugger: 轻量级 PHP 调试器扩展（从 Xdebug 分叉，精简为仅调试并进行了优化）",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-03T11:26:26Z",
+            "owner": "php-debugger",
+            "repo": "php-debugger",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yuzeguitarist/Orbit: 一个以手势为主的径向应用切换器和文件中心，适用于 macOS。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-04-18T07:14:25Z",
+            "owner": "yuzeguitarist",
+            "repo": "Orbit",
+            "stars": 365
+          }
+        }
+      ],
+      "title": "March 14, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "alibaba/page-agent: JavaScript 页面内 GUI 代理。用自然语言控制网页界面。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:19:14Z",
+            "owner": "alibaba",
+            "repo": "page-agent",
+            "stars": 28606
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alibaba/page-agent: JavaScript in-page GUI agent. Control web interfaces with natural language.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:19:14Z",
+            "owner": "alibaba",
+            "repo": "page-agent",
+            "stars": 28606
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kepano/defuddle: 以 Markdown 格式获取任何页面的主要内容。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T18:03:14Z",
+            "owner": "kepano",
+            "repo": "defuddle",
+            "stars": 8947
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "antfu-collective/ni: 使用正确的软件包管理器",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T02:29:51Z",
+            "owner": "antfu-collective",
+            "repo": "ni",
+            "stars": 8290
+          }
+        }
+      ],
+      "title": "March 13, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ValueCell-ai/ClawX: ClawX 是一款桌面应用程序，为 OpenClaw AI 代理提供图形界面。它将基于命令行的 AI 编排转变为无需终端操作的桌面体验。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:00:08Z",
+            "owner": "ValueCell-ai",
+            "repo": "ClawX",
+            "stars": 7588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phpmlkit/ndarray: 由 Rust 提供支持的高性能 N 维数组，适用于 PHP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-18T15:24:35Z",
+            "owner": "phpmlkit",
+            "repo": "ndarray",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vaspike/MacEasySymbol: 在 macOS 中文输入时使用英文标点。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-11-28T06:18:10Z",
+            "owner": "vaspike",
+            "repo": "MacEasySymbol",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "March 12, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JetBrains/junie: JetBrains 推出的 AI 编码代理，可通过终端、IDE 或 CI/CD 流水线部署代码——由你选择的任何大语言模型提供支持。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T22:09:08Z",
+            "owner": "JetBrains",
+            "repo": "junie",
+            "stars": 367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nicobleiler/php-passphrase: 带有 Laravel 集成的密码短语生成器，灵感来自 Bitwarden。默认使用 EFF 长词列表，并支持自定义词列表。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-12T11:36:29Z",
+            "owner": "nicobleiler",
+            "repo": "php-passphrase",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "March 11, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nearai/ironclaw: IronClaw 是受 OpenClaw 启发的 Rust 实现，专注于隐私和安全。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:36:12Z",
+            "owner": "nearai",
+            "repo": "ironclaw",
+            "stars": 12604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geek-fun/dockit: 适用于 Mac、windows 和 linux 的 ElasticSearch、OpenSearch 和 DynamoDB NoSQL GUI 客户端",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:12:50Z",
+            "owner": "geek-fun",
+            "repo": "dockit",
+            "stars": 1130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EthanLipnik/Loom: 适用于苹果设备的简单对等网络",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2026-08-01T21:41:28Z",
+            "owner": "EthanLipnik",
+            "repo": "Loom",
+            "stars": 359
+          }
+        }
+      ],
+      "title": "March 10, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wei-Shaw/sub2api: Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai、Gemini、Antigravity 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T02:32:07Z",
+            "owner": "Wei-Shaw",
+            "repo": "sub2api",
+            "stars": 36847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mrconter1/rustc-php: 用 PHP 编写的带有所有权检查功能的 Rust 编译器",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-08T08:46:07Z",
+            "owner": "mrconter1",
+            "repo": "rustc-php",
+            "stars": 312
+          }
+        }
+      ],
+      "title": "March 9, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lakr233/vphone-cli: 通过苹果的 Virtualization.framework，以及 PCC 研究虚拟机基础设施，启动一个虚拟的 iPhone(iOS 26)。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T13:20:00Z",
+            "owner": "Lakr233",
+            "repo": "vphone-cli",
+            "stars": 7632
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "metaspartan/mactop: mactop 是一个基于终端的监控工具“top”，旨 在显示 Carsen Klock 编写的 Apple Silicon 芯片的实时指标。它提供了一种简单有效的方法来直接从终端监控 CPU 和 GPU 使用情况、E 核和 P 核、功耗、GPU 频率、温度和其他系统指标",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-29T10:28:56Z",
+            "owner": "metaspartan",
+            "repo": "mactop",
+            "stars": 1560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hehehai/voxt: macOS 的语音输入和翻译应用。按下说话，释放粘贴。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-07T07:49:44Z",
+            "owner": "hehehai",
+            "repo": "voxt",
+            "stars": 767
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aayush9029/petal: Petal 是一款本地 macOS 菜单栏应用程序，用于快速、本地优先转录音频。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-25T05:33:40Z",
+            "owner": "Aayush9029",
+            "repo": "petal",
+            "stars": 262
+          }
+        }
+      ],
+      "title": "March 5, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sjj1024/PakePlus-Android: 轻松将任意网站/HTML/Vue/React 等项目构建为轻量级（小于 5M）多端桌面应用和手机应用仅需几分钟。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-02T06:12:17Z",
+            "owner": "Sjj1024",
+            "repo": "PakePlus-Android",
+            "stars": 9455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "34306/vphone-aio: 1 个脚本运行 vphone(iOS 26.1)，已越狱并安装了完整的引导程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-03T04:19:20Z",
+            "owner": "34306",
+            "repo": "vphone-aio",
+            "stars": 5017
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adembc/lazyssh: Lazyssh 是一个基于终端的交互式 SSH 管理器，灵感来自于 lazydocker 和 k9s 等工具——但旨在直接从终端管理您的服务器集群。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-09T20:37:29Z",
+            "owner": "Adembc",
+            "repo": "lazyssh",
+            "stars": 3870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mantou132/Spotify-Lyrics: 桌面 Spotify 网络播放器即时同步歌词",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-02T06:17:45Z",
+            "owner": "mantou132",
+            "repo": "Spotify-Lyrics",
+            "stars": 1050
+          }
+        }
+      ],
+      "title": "March 2, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "grinev/opencode-telegram-bot: OpenCode Telegram 机器人客户端用于 OpenCode CLI：在您的手机上运行和监控 AI 编码任务，同时一切在您的机器上本地运行。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T19:07:41Z",
+            "owner": "grinev",
+            "repo": "opencode-telegram-bot",
+            "stars": 1028
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "matheusml/zsh-ai: 将自然语言即时转换为 shell 命令。无需依赖项，无需复杂设置——只需输入所需内容，即可获得所需命令。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-21T13:56:37Z",
+            "owner": "matheusml",
+            "repo": "zsh-ai",
+            "stars": 202
+          }
+        }
+      ],
+      "title": "February 27, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "quoid/userscripts: 适用于 Safari 的开源用户脚本编辑器",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-27T22:23:28Z",
+            "owner": "quoid",
+            "repo": "userscripts",
+            "stars": 4697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "saif0200/notchprompt: 用于演示和录音的 macOS 本地凹槽式提词器。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-03-25T08:42:42Z",
+            "owner": "saif0200",
+            "repo": "notchprompt",
+            "stars": 1348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cosZone/MoePeek: 一款轻量级 macOS 划词翻译工具，纯 Swift 6 开发，设备端 Apple 翻译保护隐私，安装体积仅 5MB，后台运行内存稳定约 50MB",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-11T15:20:18Z",
+            "owner": "cosZone",
+            "repo": "MoePeek",
+            "stars": 804
+          }
+        }
+      ],
+      "title": "February 26, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sudo-project/sudo: Sudo 是一个旨在允许系统管理员向用户授予有限根权限并记录根活动的程序。基本理念是尽可能少地授予权限，但仍然允许人们完成他们的工作。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-07T19:40:43Z",
+            "owner": "sudo-project",
+            "repo": "sudo",
+            "stars": 1694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "php-testo/testo: Testo 是一个可扩展的测试框架，建立在轻量级核心和中间件系统之上。它让您完全控制测试环境，同时保持您已经熟悉的 PHP 语法。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T22:20:32Z",
+            "owner": "php-testo",
+            "repo": "testo",
+            "stars": 204
+          }
+        }
+      ],
+      "title": "February 15, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "f/textream: 一款免费的 macOS 提词器，具有实时单词跟踪、经典自动滚动和语音激活滚动功能。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T22:32:03Z",
+            "owner": "f",
+            "repo": "textream",
+            "stars": 3567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dlvhdr/diffnav: 基于 Delta 的 Git Diff 分页程序，但带有文件树，类似于 GitHub。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-08T10:42:10Z",
+            "owner": "dlvhdr",
+            "repo": "diffnav",
+            "stars": 1510
+          }
+        }
+      ],
+      "title": "February 14, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "github/gh-aw：使用自然语言 Markdown 编写智能体工作流，并在 GitHub Actions 中运行它们。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:07:44Z",
+            "owner": "github",
+            "repo": "gh-aw",
+            "stars": 4920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "medvio/move-to-screen: 使用 ⌃⌥ + 方向键在显示器之间移动窗口。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-02-12T13:48:34Z",
+            "owner": "medvio",
+            "repo": "move-to-screen",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "February 13, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sipeed/picoclaw: 🦐 PicoClaw 是一款超轻量级的个人人工智能助理，其灵感来源于纳米机器人，通过自引导过程用 Go 语言从头开始重构，由人工智能代理本身驱动整个架构迁移和代码优化。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T18:18:20Z",
+            "owner": "sipeed",
+            "repo": "picoclaw",
+            "stars": 29855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spatie/laravel-screenshot: 在 Laravel 应用程序中对网页进行截屏",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-07T11:21:05Z",
+            "owner": "spatie",
+            "repo": "laravel-screenshot",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spatie/laravel-openapi-cli: 将任何 OpenAPI 规范转化为专用的 Laravel artisan 命令。每个端点都有自己的命令，并为路径参数、查询参数和请求体提供类型化选项。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-07T11:15:52Z",
+            "owner": "spatie",
+            "repo": "laravel-openapi-cli",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "February 12, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rebornix/Agmente: Agmente 是一个用于编码代理的 iOS 客户端。它连接到使用 ACP（代理客户端协议）或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-05-31T05:15:50Z",
+            "owner": "rebornix",
+            "repo": "Agmente",
+            "stars": 539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rectorphp/mockstan: 将您的 PHPUnit 模拟置于严格的静态分析之下。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2026-06-08T07:44:05Z",
+            "owner": "deprecated-packages",
+            "repo": "mockstan",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "February 11, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sbarex/SourceCodeSyntaxHighlight: 该应用程序为 macOS 10.15 Catalina 及更高版本提供了快速查看扩展，用于预览源文件。内部使用 Highlight 渲染带有语法高亮的源代码。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-14T18:34:22Z",
+            "owner": "sbarex",
+            "repo": "SourceCodeSyntaxHighlight",
+            "stars": 4203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sbarex/QLMarkdown: QLMarkdown 是一个 macOS 快速查看扩展，用于预览 Markdown 文件。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-31T10:55:31Z",
+            "owner": "sbarex",
+            "repo": "QLMarkdown",
+            "stars": 3324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sbarex/MediaInfo: MacOS Finder 扩展，用于在上下文菜单上显示有关媒体文件（图像、视频和音频）、PDF 和 Office 文件的信息。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-12-11T09:51:18Z",
+            "owner": "sbarex",
+            "repo": "MediaInfo",
+            "stars": 454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "saeedvir/PaL-Server-Info: PHP 和 Laravel（PaL）服务器信息和 Laravel 要求检查器 + PHP 和 Mysql 基准测试 + 在单个文件中扫描 PHP 配置",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-09-05T08:02:08Z",
+            "owner": "saeedvir",
+            "repo": "PaL-Server-Info",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "February 8, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "steipete/Peekaboo: Peekaboo 是一个 MacOS CLI 可选的 MCP 服务器，它使 AI 代理能够捕获应用程序或整个系统的屏幕截图，并通过本地或远程 AI 模型进行可选的可视化问题回答。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-13T03:51:30Z",
+            "owner": "openclaw",
+            "repo": "Peekaboo",
+            "stars": 4983
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wzh4869/AppPorts: 一款 macOS 工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-07T14:40:56Z",
+            "owner": "wzh4869",
+            "repo": "AppPorts",
+            "stars": 1964
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "smughead/Loupe: 用于 AI-Agent 工作流的 MacOS 辅助功能检查器。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-29T21:04:56Z",
+            "owner": "smughead",
+            "repo": "Loupe",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jarv/newsgoat: NewsGoat 是一个基于终端的 RSS 阅读器",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-06T05:09:47Z",
+            "owner": "jarv",
+            "repo": "newsgoat",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "worksome/graphlint：GraphQL 静态分析工具",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-05T11:37:27Z",
+            "owner": "worksome",
+            "repo": "graphlint",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TestFlowLabs/doctest：一个 PHP 文档测试工具，它可以从 Markdown 文件中提取代码块，在隔离的进程中执行这些代码块，并验证其输出。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-08T22:28:08Z",
+            "owner": "TestFlowLabs",
+            "repo": "doctest",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "February 7, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "laravel/ai: Laravel AI SDK 提供了一个统一的、富有表现力的 API，用于与 OpenAI、Anthropic、Gemini 等 AI 提供商进行交互。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T19:45:56Z",
+            "owner": "laravel",
+            "repo": "ai",
+            "stars": 1092
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elementary/terminal: 为初级操作系统设计的终端仿真器",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-08-07T01:01:47Z",
+            "owner": "elementary",
+            "repo": "terminal",
+            "stars": 428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AliRezaBeigy/paqetNG: 一个现代的 Android 应用程序，用于 paqet，这是一种使用原始套接字和 KCP 的包级代理。使用 hev-socks5-tunnel 构建，支持本地 TUN/SOCKS5 隧道。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-05-29T09:21:52Z",
+            "owner": "AliRezaBeigy",
+            "repo": "paqetNG",
+            "stars": 76
+          }
+        }
+      ],
+      "title": "February 6, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lucasgelfond/zerobrew: 即插即用，速度提升 5 至 20 倍，实验性的 Homebrew 替代品。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-24T14:28:18Z",
+            "owner": "lucasgelfond",
+            "repo": "zerobrew",
+            "stars": 7516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FantasticFiasco/action-update-license-year: 拉取请求中的 GitHub 操作会更新许可证文件中的版权年份。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T12:51:04Z",
+            "owner": "FantasticFiasco",
+            "repo": "action-update-license-year",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VortexOne404/slipstream-client-android: Slipstream 客户端是一个轻量级和模块化的 Android 客户端：",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-02-07T03:47:04Z",
+            "owner": "VortexOne404",
+            "repo": "slipstream-client-android",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "February 5, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "automazeio/vibeproxy: 原生 MacOS 菜单栏应用程序使用您的 Claude Code ChatGPT 订阅与 AI 编码工具 - 无需 API 密钥",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T12:20:47Z",
+            "owner": "automazeio",
+            "repo": "vibeproxy",
+            "stars": 3275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asheshgoplani/agent-deck: AI 编码代理的终端会话管理器。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T21:57:22Z",
+            "owner": "asheshgoplani",
+            "repo": "agent-deck",
+            "stars": 716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "syi0808/screenize: 开源 MacOS 屏幕录制应用程序，具有自动缩放、光标效果和时间轴编辑功能—Screen Studio 替代方案。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-05-22T13:37:56Z",
+            "owner": "syi0808",
+            "repo": "screenize",
+            "stars": 594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sebastianbergmann/file-filter: 用于过滤文件的库，从 phpunit/phpunit 中提取。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-07T13:50:22Z",
+            "owner": "sebastianbergmann",
+            "repo": "file-filter",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "devcbh/laravel-ai-provider: 具有多个提供程序驱动程序的 Laravel AI 包装包。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-27T06:13:34Z",
+            "owner": "devcbh",
+            "repo": "laravel-ai-provider",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "February 2, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "openclaw/openclaw: OpenClaw 是一款个人 AI 助手，用户可以在自己的设备上运行它。该助手支持在用户已使用的多个频道上提供回答，包括 WhatsApp、Telegram、Slack、Discord、Google Chat、Signal、iMessage、Microsoft Teams 和 WebChat，还支持 BlueBubbles、Matrix、Zalo 及 Zalo Personal 等扩展频道。它能够在 macOS、iOS 和 Android 系统上实现语音交互，并能渲染用户可控制的实时画布界面。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:07:43Z",
+            "owner": "openclaw",
+            "repo": "openclaw",
+            "stars": 386105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "harris21/laravel-fuse: Laravel 队列作业的断路器",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-02T22:35:42Z",
+            "owner": "harris21",
+            "repo": "laravel-fuse",
+            "stars": 463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "loilo/Fuse: PHP 的模糊搜索库",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-04T21:03:40Z",
+            "owner": "loilo",
+            "repo": "Fuse",
+            "stars": 363
+          }
+        }
+      ],
+      "title": "February 1, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rNeomy/auto-tab-discard: 一个浏览器扩展，使用本地标签页丢弃方法（)，自动减少非活动标签页的内存使用。与使用 DOM 替换方法的替代扩展相比，这个扩展更高效，且应该更少出现错误。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T11:02:32Z",
+            "owner": "rNeomy",
+            "repo": "auto-tab-discard",
+            "stars": 1181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YanGusik/laravel-balanced-queue: 一个用于队列管理的 Laravel 包，支持在分区（用户组）之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-31T07:47:35Z",
+            "owner": "YanGusik",
+            "repo": "laravel-balanced-queue",
+            "stars": 86
+          }
+        }
+      ],
+      "title": "January 25, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "github/copilot-sdk: 用于将 GitHub Copilot 代理集成到应用和服务中的多平台 SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T01:32:18Z",
+            "owner": "github",
+            "repo": "copilot-sdk",
+            "stars": 10379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mohamed-Galdi/vilt-filepond: Laravel 包，用于在 VILT 堆栈（VUE、Inertia、Laravel、Tailwind）中使用 FilePond 处理文件上传。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-23T17:17:50Z",
+            "owner": "Mohamed-Galdi",
+            "repo": "vilt-filepond",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "January 23, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "affaan-m/everything-claude-code: 完整的 Claude Code 配置集合 - 代理，技能，钩子，命令，规则，MCP。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T22:45:12Z",
+            "owner": "affaan-m",
+            "repo": "ECC",
+            "stars": 239785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LinWanCen/show-comment: IDEA 插件：在文件树、行末、JSON、COBOL 显示注释",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-01T13:32:40Z",
+            "owner": "LinWanCen",
+            "repo": "show-comment",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "waadmawlood/truffle: 内存驱动程序数据库 Eloquent 模型连接的 Laravel 包",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-25T19:20:03Z",
+            "owner": "waadmawlood",
+            "repo": "truffle",
+            "stars": 47
+          }
+        }
+      ],
+      "title": "January 22, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "op7418/Humanizer-zh: Humanizer-zh 是一个用于去除文本中 AI 生成痕迹的工具，帮助你将 AI 生成的内容改写得更自然、更像人类书写的文本。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-19T07:46:35Z",
+            "owner": "op7418",
+            "repo": "Humanizer-zh",
+            "stars": 15176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aymanalhattami/filament-page-with-sidebar: 在侧边栏中组织页面，以使页面之间的导航更加舒适。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-22T02:32:57Z",
+            "owner": "aymanalhattami",
+            "repo": "filament-page-with-sidebar",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RightCapitalHQ/chinese-style-guide: 中文写作排版风格指南，一套中文和中英文混排的写作和排版标准。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T03:31:44Z",
+            "owner": "RightCapitalHQ",
+            "repo": "chinese-style-guide",
+            "stars": 112
+          }
+        }
+      ],
+      "title": "January 20, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gitcoffee-os/postbot: PostBot 内容同步助手一款开源的多平台内容同步分发生产力工具。支持将文章、笔记、动态、图片、视频、音频等内容，一键同步发布至主流媒体平台。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-30T15:58:33Z",
+            "owner": "gitcoffee-os",
+            "repo": "postbot",
+            "stars": 1242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "guanguans/phpstan-rules: PHPStan 的一组附加规则。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-28T21:12:44Z",
+            "owner": "guanguans",
+            "repo": "phpstan-rules",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "January 19, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "chatfire-AI/huobao-drama: 🎬 一句话生成完整短剧，从剧本到成片全自动化",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-09T11:43:51Z",
+            "owner": "chatfire-AI",
+            "repo": "huobao-drama",
+            "stars": 13944
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HPWebdeveloper/laravel-stateflow: Laravel Eloquent 模型的现代企业就绪状态机实现。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-01T23:20:57Z",
+            "owner": "HPWebdeveloper",
+            "repo": "laravel-stateflow",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "January 18, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "remorses/playwriter: 像 Playwright MCP，但通过扩展。上下文窗口减少 80%。能力提升 10 倍（完整的 Playwright API）",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-27T16:47:32Z",
+            "owner": "remorses",
+            "repo": "playwriter",
+            "stars": 3767
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qianguyihao/blog-list: 中文博客琅琊榜，只收录精品独立博客",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-17T09:16:29Z",
+            "owner": "qianguyihao",
+            "repo": "blog-list",
+            "stars": 2790
+          }
+        }
+      ],
+      "title": "January 16, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "farion1231/cc-switch: Claude Code 的跨平台桌面一体化辅助工具，Codex Gemini CLI。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T15:05:47Z",
+            "owner": "farion1231",
+            "repo": "cc-switch",
+            "stars": 126791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "staabm/annotate-pull-request-from-checkstyle: CS2PR-根据您的 GitHub 操作中的 CheckStyle XML 报告注释 GitHub Pull 请求",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-08T15:20:32Z",
+            "owner": "staabm",
+            "repo": "annotate-pull-request-from-checkstyle",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DaveLiddament/phpstan-php-language-extensions: 用于验证 PHP 语言扩展的 PHPStan 扩展",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-29T14:28:39Z",
+            "owner": "DaveLiddament",
+            "repo": "phpstan-php-language-extensions",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jbelien/phpstan-sarif-formatter: PHPSTAN 的 SARIF 格式化程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-01T14:11:12Z",
+            "owner": "jbelien",
+            "repo": "phpstan-sarif-formatter",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "staabm/SysMonitor: 监控 PHP 应用程序，并在特定错误/异常/资源耗尽/自定义事件上发送通知",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-01-20T15:16:31Z",
+            "owner": "staabm",
+            "repo": "SysMonitor",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NickSdot/phpstan-phpstorm-error-identifiers: 自定义 PHPStan 格式化程序，用于在 PhpStorm 检查输出中显示错误标识符。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-28T11:57:51Z",
+            "owner": "NickSdot",
+            "repo": "phpstan-phpstorm-error-identifiers",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TheDragonCode/github-preview-updater: 存储库中的轻量级预览更新",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-11T17:30:26Z",
+            "owner": "TheDragonCode",
+            "repo": "github-preview-updater",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "January 14, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vercel-labs/agent-browser: 用于人工智能代理的无头浏览器自动化 CLI。带有 Node.js 回退功能的快速 Rust CLI。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T18:57:02Z",
+            "owner": "vercel-labs",
+            "repo": "agent-browser",
+            "stars": 40514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "open-meteo/open-meteo: Open-Meteo 是一个开源天气 API，提供非商业用途的免费访问。无需 API 密钥。您可以立即使用它！",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T16:30:43Z",
+            "owner": "open-meteo",
+            "repo": "open-meteo",
+            "stars": 6001
+          }
+        }
+      ],
+      "title": "January 13, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cargo-bins/cargo-binstall: Binstall 提供了一种低复杂度的机制，用于安装 Rust 二进制文件，作为从源代码构建（通过）或手动下载软件包的替代方案。这旨在与现有的 CI 工件和基础设施配合使用，并对软件包维护者的开销最小。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T01:22:41Z",
+            "owner": "cargo-bins",
+            "repo": "cargo-binstall",
+            "stars": 2822
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dengcb/weixin-reader-desktop: 轻量级微信读书客户端，体积小，页面宽，自动翻页，体验增强",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T17:56:44Z",
+            "owner": "dengcb",
+            "repo": "weixin-reader-desktop",
+            "stars": 458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redraw/gh-install: 以交互方式从 CLI 安装 GitHub 发行版二进制文件",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-12-09T11:53:19Z",
+            "owner": "redraw",
+            "repo": "gh-install",
+            "stars": 225
+          }
+        }
+      ],
+      "title": "January 12, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wickenico/WailBrew: WailBrew 是一种现代且直观的方式来管理 macOS 上的 Homebrew！它提供了一个干净的图形界面，使得软件包管理对每个人都变得可访问。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T07:09:18Z",
+            "owner": "wickenico",
+            "repo": "WailBrew",
+            "stars": 2729
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tuupola/server-timing-middleware: 此中间件实现了 Server-Timing 头，可以用于在 Chrome DevTools 上显示服务器端的时间信息。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-10T15:57:59Z",
+            "owner": "tuupola",
+            "repo": "server-timing-middleware",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bwaidelich/dcb-eventstore: 根据规范实现动态一致性边界的事件存储的接口和类型。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-30T17:19:52Z",
+            "owner": "bwaidelich",
+            "repo": "dcb-eventstore",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "January 11, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fission-AI/OpenSpec: 人工智能编码助手功能强大，但当需求存在于聊天记录中时却难以预测。OpenSpec 增加了一个轻量级的规范工作流程，可在实施前锁定意图，为您提供确定的、可审查的输出。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T16:47:42Z",
+            "owner": "Fission-AI",
+            "repo": "OpenSpec",
+            "stars": 64706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crate-ci/typos: 源代码拼写检查器",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T13:46:08Z",
+            "owner": "crate-ci",
+            "repo": "typos",
+            "stars": 4084
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paymenter/Paymenter: Paymenter 是一个为托管公司量身定制的开源计费平台。它简化了托管服务的管理，为提供商和客户提供无缝的体验。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-08T20:07:32Z",
+            "owner": "Paymenter",
+            "repo": "Paymenter",
+            "stars": 2223
+          }
+        }
+      ],
+      "title": "January 10, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kepano/obsidian-skills: Claude 技能用于与 Obsidian 一起使用",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-08T16:12:01Z",
+            "owner": "kepano",
+            "repo": "obsidian-skills",
+            "stars": 45204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "antonmedv/wiki: 一个由 PHP 和 SQLite 驱动的极简主义单文件维基引擎。旨在简单、快速且易于部署。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-08T22:47:37Z",
+            "owner": "antonmedv",
+            "repo": "wiki",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "January 9, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rectorphp/monitor: 在一个地方监控所有项目和包的代码质量，确保一致性并消除不同 PHP 版本之间的冲突。",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "rectorphp/argtyper: 分析真正的方法参数类型，并将其添加为类型声明",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "January 8, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ChrisTitusTech/winutil: 该工具是我在每个使用的 Windows 系统上执行的 Windows 任务的汇编。它旨在简化安装，使用调整进行去膨胀，使用配置进行故障排除，以及修复 Windows 更新。我对任何贡献都非常挑剔，以保持该项目的整洁和高效。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-11T22:55:26Z",
+            "owner": "ChrisTitusTech",
+            "repo": "winutil",
+            "stars": 60388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MrPunyapal/PestStan: Pest PHP 测试框架的 PHPStan 扩展。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2026-08-11T18:45:06Z",
+            "owner": "MrPunyapal",
+            "repo": "PestStan",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "January 1, 2026"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:07:59.890Z",
+    "original_repository": "guanguans/favorite-link",
+    "original_repository_sha": "9689229a497e423931bc1f3f6d03accc29f75e1b",
+    "enhanced_repository": "enhansome/enhansome-favorite-link",
+    "enhanced_repository_description": null,
+    "title": "Awesome favorite-link with stars"
+  }
+}
