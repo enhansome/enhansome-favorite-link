@@ -44,7 +44,7 @@
 
 ### July 9, 2026
 
-* [pear-devs/pear-desktop：Pear 🍐 是音乐播放器的扩展](https://github.com/pear-devs/pear-desktop) ⭐ 33,226 | 🐛 654 | 🌐 TypeScript | 📅 2026-08-27
+* [pear-devs/pear-desktop：Pear 🍐 是音乐播放器的扩展](https://github.com/pear-devs/pear-desktop) ⭐ 33,227 | 🐛 654 | 🌐 TypeScript | 📅 2026-08-27
 
 ### July 6, 2026
 
@@ -61,16 +61,16 @@
 
 ### July 3, 2026
 
-* [jlcodes99/cockpit-tools: 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。](https://github.com/jlcodes99/cockpit-tools) ⭐ 16,701 | 🐛 513 | 🌐 Rust | 📅 2026-08-29
-* [jiji262/douyin-downloader: 抖音批量下载工具，去水印，支持视频、图集、合集、音乐（原声）。](https://github.com/jiji262/douyin-downloader) ⭐ 9,523 | 🐛 34 | 🌐 Python | 📅 2026-08-28
+* [jlcodes99/cockpit-tools: 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。](https://github.com/jlcodes99/cockpit-tools) ⭐ 16,702 | 🐛 513 | 🌐 Rust | 📅 2026-08-29
+* [jiji262/douyin-downloader: 抖音批量下载工具，去水印，支持视频、图集、合集、音乐（原声）。](https://github.com/jiji262/douyin-downloader) ⭐ 9,524 | 🐛 34 | 🌐 Python | 📅 2026-08-28
 * [ricccrd/dd: 在 Apple-Silicon macOS 上原生运行 Linux 容器，无需虚拟机。](https://github.com/ricccrd/dd) ⭐ 255 | 🐛 0 | 🌐 C | 📅 2026-08-28
 
 ### June 29, 2026
 
-* [vorssaint/vorssaint-utils: 免费开源的 macOS 菜单栏工具包。支持按应用调节音量、系统监控、Dock 预览、保持唤醒、窗口切换（Alt Tab）、书架、应用卸载器等功能。](https://github.com/vorssaint/vorssaint-utils) ⭐ 13,139 | 🐛 285 | 🌐 Swift | 📅 2026-08-28
+* [vorssaint/vorssaint-utils: 免费开源的 macOS 菜单栏工具包。支持按应用调节音量、系统监控、Dock 预览、保持唤醒、窗口切换（Alt Tab）、书架、应用卸载器等功能。](https://github.com/vorssaint/vorssaint-utils) ⭐ 13,146 | 🐛 285 | 🌐 Swift | 📅 2026-08-28
 * [eternityspring/article-tools: 一套封面制作和 x、微信公众号排版工具](https://github.com/eternityspring/article-tools) ⭐ 805 | 🐛 1 | 🌐 HTML | 📅 2026-08-03
 * [sarensw/MacPacker: 适用于 macOS 的归档管理器。开放源代码，因为基本工具应该是免费的。预览（嵌套）归档文件，无需解压缩。提取单个文件](https://github.com/sarensw/MacPacker) ⭐ 651 | 🐛 21 | 🌐 Swift | 📅 2026-08-24
-* [hikariming/github-roast: 毒舌 GitHub 评分 🔥](https://github.com/hikariming/github-roast) ⭐ 191 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-28
+* [hikariming/github-roast: 毒舌 GitHub 评分 🔥](https://github.com/hikariming/github-roast) ⭐ 191 | 🐛 26 | 🌐 TypeScript | 📅 2026-08-28
 * [Skyearn/BLEUnlock: 使用 iPhone、Apple Watch 或任何其他蓝牙 LE 设备锁定/解锁您的 Mac](https://github.com/Skyearn/BLEUnlock) ⭐ 180 | 🐛 1 | 🌐 Swift | 📅 2026-08-14
 
 ### June 27, 2026
@@ -81,7 +81,7 @@
 
 ### June 23, 2026
 
-* [nexu-io/open-design: 🎨 本地优先，开源的 Claude Design 替代方案。🖥️ 原生桌面应用。⚡ 259+ 技能 · ✨ 142+ 设计系统 🖼️ 网页 · 桌面 · 移动端原型 · 幻灯片 · 图片 · 视频 · HyperFrames 📦 沙盒预览 · HTML/PDF/PPTX/MP4 导出 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi 及 17+ 命令行工具。](https://github.com/nexu-io/open-design) ⭐ 92,436 | 🐛 905 | 📅 2026-08-29
+* [nexu-io/open-design: 🎨 本地优先，开源的 Claude Design 替代方案。🖥️ 原生桌面应用。⚡ 259+ 技能 · ✨ 142+ 设计系统 🖼️ 网页 · 桌面 · 移动端原型 · 幻灯片 · 图片 · 视频 · HyperFrames 📦 沙盒预览 · HTML/PDF/PPTX/MP4 导出 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi 及 17+ 命令行工具。](https://github.com/nexu-io/open-design) ⭐ 92,438 | 🐛 905 | 📅 2026-08-29
 
 ### June 20, 2026
 
@@ -109,7 +109,7 @@
 
 ### June 12, 2026
 
-* [XiaoYouChR/Ghost-Downloader-3: 使用 Python 和 Qt 构建的人工智能增强型跨平台多协议流畅设计并发下载器。](https://github.com/XiaoYouChR/Ghost-Downloader-3) ⭐ 8,706 | 🐛 73 | 🌐 Python | 📅 2026-08-26
+* [XiaoYouChR/Ghost-Downloader-3: 使用 Python 和 Qt 构建的人工智能增强型跨平台多协议流畅设计并发下载器。](https://github.com/XiaoYouChR/Ghost-Downloader-3) ⭐ 8,707 | 🐛 73 | 🌐 Python | 📅 2026-08-26
 * [nilaoda/N\_m3u8DL-RE: 跨平台的 DASH/HLS/MSS 下载工具。支持点播、直播（DASH/HLS）。](https://github.com/nilaoda/N_m3u8DL-RE) ⭐ 8,638 | 🐛 425 | 🌐 C# | 📅 2026-07-03
 * [vitodeploy/vito: Vito 是一个自托管的网页应用，帮助你管理服务器并将 PHP 应用轻松部署到生产服务器。](https://github.com/vitodeploy/vito) ⭐ 3,218 | 🐛 12 | 🌐 PHP | 📅 2026-08-17
 * [MokoPaste | 为 macOS 打造的高效剪贴板工具](https://mokopaste.com/zh#top)
@@ -173,7 +173,7 @@
 
 ### May 15, 2026
 
-* [vercel-labs/zero-native: 使用 Zig 和 Web UI 构建桌面和移动应用程序](https://github.com/vercel-labs/zero-native) ⭐ 7,591 | 🐛 150 | 🌐 Zig | 📅 2026-08-25
+* [vercel-labs/zero-native: 使用 Zig 和 Web UI 构建桌面和移动应用程序](https://github.com/vercel-labs/zero-native) ⭐ 7,592 | 🐛 150 | 🌐 Zig | 📅 2026-08-25
 
 ### May 12, 2026
 
@@ -205,8 +205,8 @@
 
 ### May 6, 2026
 
-* [Hmbown/DeepSeek-TUI: 适用于 DeepSeek 模型的编码代理，可在您的终端运行](https://github.com/Hmbown/DeepSeek-TUI) ⭐ 40,863 | 🐛 133 | 🌐 Rust | 📅 2026-08-29
-* [TableProApp/TablePro: 为每天使用数据库的开发者提供的原生数据库客户端。](https://github.com/TableProApp/TablePro) ⭐ 5,576 | 🐛 89 | 🌐 Swift | 📅 2026-08-29
+* [Hmbown/DeepSeek-TUI: 适用于 DeepSeek 模型的编码代理，可在您的终端运行](https://github.com/Hmbown/DeepSeek-TUI) ⭐ 40,863 | 🐛 129 | 🌐 Rust | 📅 2026-08-29
+* [TableProApp/TablePro: 为每天使用数据库的开发者提供的原生数据库客户端。](https://github.com/TableProApp/TablePro) ⭐ 5,576 | 🐛 88 | 🌐 Swift | 📅 2026-08-29
 * [nandieling/OmniPlay: 览影：支持 mac、win 双平台的海报墙视频播放器](https://github.com/nandieling/OmniPlay) ⭐ 135 | 🐛 7 | 🌐 Swift | 📅 2026-08-27
 
 ### May 3, 2026
@@ -230,25 +230,25 @@
 
 ### April 27, 2026
 
-* [maillab/cloud-mail: 只需要一个域名，就可以创建多个不同的邮箱，类似各大邮箱平台，本项目支持署到 Cloudflare Workers，降低服务器成本，搭建自己的邮箱服务](https://github.com/maillab/cloud-mail) ⭐ 13,756 | 🐛 68 | 🌐 JavaScript | 📅 2026-08-28
+* [maillab/cloud-mail: 只需要一个域名，就可以创建多个不同的邮箱，类似各大邮箱平台，本项目支持署到 Cloudflare Workers，降低服务器成本，搭建自己的邮箱服务](https://github.com/maillab/cloud-mail) ⭐ 13,759 | 🐛 68 | 🌐 JavaScript | 📅 2026-08-28
 * [open-webui/desktop: 您的 AI，就在您的桌面上。以原生应用方式打开 WebUI。本地运行模型或连接到任何服务器。](https://github.com/open-webui/desktop) ⭐ 2,643 | 🐛 79 | 🌐 Svelte | 📅 2026-05-06
 * [gridex/gridex: 一个使用 Swift 和 AppKit 构建的原生 macOS / Windows / Linux 数据库 IDE。通过一个快速、键盘驱动的界面，从单一应用连接到 PostgreSQL、MySQL、SQLite 和 Redis。](https://github.com/gridex/gridex) ⭐ 897 | 🐛 9 | 🌐 C++ | 📅 2026-08-20
 * [g3ntrix/Loole: Loole 是一款现代化的高性能 SOCKS5 隧道，它利用 Google 云端硬盘作为隐蔽传输层，绕过网络限制。它提供优质的 macOS 使用体验，并配备自动化设置向导。](https://github.com/g3ntrix/Loole) ⭐ 118 | 🐛 0 | 🌐 Go | 📅 2026-05-24
 
 ### April 26, 2026
 
-* [rtk-ai/rtk: CLI 代理，可在常见开发命令中减少 60-90% 的 LLM 令牌消耗。单一 Rust 二进制文件，无任何依赖。](https://github.com/rtk-ai/rtk) ⭐ 77,751 | 🐛 2,074 | 🌐 Rust | 📅 2026-08-28
+* [rtk-ai/rtk: CLI 代理，可在常见开发命令中减少 60-90% 的 LLM 令牌消耗。单一 Rust 二进制文件，无任何依赖。](https://github.com/rtk-ai/rtk) ⭐ 77,753 | 🐛 2,074 | 🌐 Rust | 📅 2026-08-28
 * [cameroncooke/AXe: AXe 是一个用于通过苹果的私有辅助功能 API 与模拟器交互的命令行工具。](https://github.com/cameroncooke/AXe) ⭐ 2,149 | 🐛 12 | 🌐 Swift | 📅 2026-07-21
 * [Nandanrmenon/florid: 使用干净的 Material 3 UI 从 F-Droid 存储库中浏览、搜索和安装开源 Android 应用程序。用 Flutter 建造。](https://github.com/Nandanrmenon/florid) ⭐ 499 | 🐛 46 | 🌐 Dart | 📅 2026-06-16
 * [ZekerTop/ai-cli-complete-notify: 面向 Claude Code / Codex / OpenCode / Gemini 的多通道 AI CLI 任务完成提醒，支持耗时阈值、桌面端与命令行、通用 Webhook（飞书/钉钉/企微）、Telegram、邮件、桌面/声音提示，配备自动监听日志，AI 摘要等功能](https://github.com/ZekerTop/ai-cli-complete-notify) ⭐ 407 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-25
-* [suzuki-shunsuke/ghalint: ghalint 是一个命令行工具，用于检查 GitHub Actions 工作流程和 action.yaml 是否符合安全政策。](https://github.com/suzuki-shunsuke/ghalint) ⭐ 257 | 🐛 21 | 🌐 Go | 📅 2026-08-29
+* [suzuki-shunsuke/ghalint: ghalint 是一个命令行工具，用于检查 GitHub Actions 工作流程和 action.yaml 是否符合安全政策。](https://github.com/suzuki-shunsuke/ghalint) ⭐ 257 | 🐛 19 | 🌐 Go | 📅 2026-08-29
 * [SuperManifolds/Burrow: Mullvad VPN 的轻量级本地 macOS WireGuard VPN 客户端。使用 SwiftUI 构建。](https://github.com/SuperManifolds/Burrow) ⭐ 3 | 🐛 10 | 🌐 Swift | 📅 2026-04-29
 
 ### April 25, 2026
 
-* [Alishahryar1/free-claude-code: 一个轻量级代理，可将 Claude Code 的 Anthropic API 调用路由到 NVIDIA NIM（每分钟 40 次免费请求）、OpenRouter（数百种模型）、DeepSeek（直接 API）、LM Studio（完全本地）或 llama.cpp（本地支持 Anthropic 端点）。](https://github.com/Alishahryar1/free-claude-code) ⭐ 51,217 | 🐛 360 | 🌐 Python | 📅 2026-08-29
+* [Alishahryar1/free-claude-code: 一个轻量级代理，可将 Claude Code 的 Anthropic API 调用路由到 NVIDIA NIM（每分钟 40 次免费请求）、OpenRouter（数百种模型）、DeepSeek（直接 API）、LM Studio（完全本地）或 llama.cpp（本地支持 Anthropic 端点）。](https://github.com/Alishahryar1/free-claude-code) ⭐ 51,221 | 🐛 359 | 🌐 Python | 📅 2026-08-29
 * [graykode/abtop: 它就像 htop 一样，但专门用于监控 AI 编码代理。可以实时监控 Claude Code & Codex CLI 的会话、令牌、上下文窗口、速率限制和端口。](https://github.com/graykode/abtop) ⭐ 3,474 | 🐛 28 | 🌐 Rust | 📅 2026-07-27
-* [suzuki-shunsuke/pinact: pinact 是一个命令行工具，用于编辑 GitHub 工作流和复合操作文件，并固定操作和可复用工作流的版本。pinact 还可以更新它们的版本并验证版本注释。](https://github.com/suzuki-shunsuke/pinact) ⭐ 1,182 | 🐛 27 | 🌐 Go | 📅 2026-08-29
+* [suzuki-shunsuke/pinact: pinact 是一个命令行工具，用于编辑 GitHub 工作流和复合操作文件，并固定操作和可复用工作流的版本。pinact 还可以更新它们的版本并验证版本注释。](https://github.com/suzuki-shunsuke/pinact) ⭐ 1,182 | 🐛 26 | 🌐 Go | 📅 2026-08-29
 * [patrickhener/goshs: goshs 是一个单文件服务器，适用于你需要比 Python 的 SimpleHTTPServer 更强大但又不想配置 Apache 的场景。支持 HTTP/S、WebDAV、SFTP、SMB、基本认证、分享链接、DNS/SMTP 回调、NTLM 哈希捕获与破解——全部只需一个命令。](https://github.com/patrickhener/goshs) ⭐ 964 | 🐛 0 | 🌐 Go | 📅 2026-08-27
 
 ### April 24, 2026
@@ -286,7 +286,7 @@
 
 ### April 19, 2026
 
-* [altic-dev/FluidVoice: 最快的 macOS 离线语音输入应用 - 语音转文字完全本地化。](https://github.com/altic-dev/FluidVoice) ⭐ 11,038 | 🐛 88 | 🌐 Swift | 📅 2026-08-28
+* [altic-dev/FluidVoice: 最快的 macOS 离线语音输入应用 - 语音转文字完全本地化。](https://github.com/altic-dev/FluidVoice) ⭐ 11,040 | 🐛 88 | 🌐 Swift | 📅 2026-08-28
 * [MrPunyapal/laravel-attributes-list: Laravel 框架中所有可用 PHP 属性的列表。](https://github.com/MrPunyapal/laravel-attributes-list) ⭐ 241 | 🐛 0 | 🌐 PHP | 📅 2026-08-21
 * [stonerl/Thaw: Thaw 是一个强大的菜单栏管理工具。虽然它的主要功能是隐藏和显示菜单栏项目，但它旨在涵盖各种附加功能，使其成为最具多功能性的菜单栏工具之一。](https://github.com/stonerl/Thaw) ⭐ 7 | 🐛 6 | 📅 2026-08-25
 
@@ -300,18 +300,18 @@
 ### April 17, 2026
 
 * [Guovin/iptv-api: ⚡️IPTV 直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI 多端部署](https://github.com/Guovin/iptv-api) ⭐ 25,022 | 🐛 2 | 🌐 Python | 📅 2026-08-27
-* [github/gh-stack: 用于管理堆叠分支和拉取请求的 GitHub CLI 扩展。](https://github.com/github/gh-stack) ⭐ 1,395 | 🐛 114 | 🌐 Go | 📅 2026-08-27
+* [github/gh-stack: 用于管理堆叠分支和拉取请求的 GitHub CLI 扩展。](https://github.com/github/gh-stack) ⭐ 1,396 | 🐛 114 | 🌐 Go | 📅 2026-08-27
 * [odvcencio/gotreesitter: 纯 Go tree-sitter 运行时。无 CGo，无 C 语言工具链。可交叉编译至 Go 支持的任何 GOOS/GOARCH 目标，包括 wasip1。](https://github.com/odvcencio/gotreesitter) ⭐ 560 | 🐛 3 | 🌐 Go | 📅 2026-08-29
 
 ### April 16, 2026
 
-* [ImranR98/Obtainium: Obtainium 允许你直接从应用的发布页面安装和更新应用，并在有新版本发布时收到通知。](https://github.com/ImranR98/Obtainium) ⭐ 19,312 | 🐛 397 | 🌐 Dart | 📅 2026-08-29
+* [ImranR98/Obtainium: Obtainium 允许你直接从应用的发布页面安装和更新应用，并在有新版本发布时收到通知。](https://github.com/ImranR98/Obtainium) ⭐ 19,314 | 🐛 397 | 🌐 Dart | 📅 2026-08-29
 * [Brkgng/ScrollSnap: 一款用于捕捉和拼接滚动截图的 macOS 应用。](https://github.com/Brkgng/ScrollSnap) ⭐ 909 | 🐛 1 | 🌐 Swift | 📅 2026-08-02
 * [lbr77/SideImpactor: 基于浏览器的 IPA 签名与安装。通过 WebUSB 连接 iOS 设备，使用您的苹果开发者账号进行签名，并在同一个网页上完成安装。](https://github.com/lbr77/SideImpactor) ⭐ 571 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-29
 
 ### April 15, 2026
 
-* [Loongphy/codex-auth: 用于切换和管理 Codex 账户的 CLI 工具](https://github.com/Loongphy/codex-auth) ⭐ 2,559 | 🐛 32 | 🌐 Zig | 📅 2026-07-23
+* [Loongphy/codex-auth: 用于切换和管理 Codex 账户的 CLI 工具](https://github.com/Loongphy/codex-auth) ⭐ 2,560 | 🐛 32 | 🌐 Zig | 📅 2026-07-23
 * [geodro/lerd: 开源的、类似 Herd 的本地 PHP 开发环境，适用于 Linux 和 macOS。自动 .test 域名、按项目隔离的 PHP/Node、单命令 TLS。原生支持 Podman，无需 root 权限。](https://github.com/geodro/lerd) ⭐ 1,212 | 🐛 47 | 🌐 Go | 📅 2026-08-27
 * [bruits/sampo: 自动化变更日志、版本管理和发布——即使是跨多个包注册表的 monorepo 也能轻松应对。目前支持的生态系统包括：Rust（Crates）、JavaScript/TypeScript（npm）、Elixir（Hex）、Python（PyPI）、PHP（Packagist）……更多即将支持！](https://github.com/bruits/sampo) ⭐ 226 | 🐛 12 | 🌐 Rust | 📅 2026-08-21
 
@@ -329,7 +329,7 @@
 
 ### April 12, 2026
 
-* [momenbasel/PureMac: 免费开源的 macOS 清理工具。CleanMyMac 的替代品，无任何遥测。原生 SwiftUI，支持定时自动清理，清理 Xcode/Homebrew/系统缓存。MIT 许可。](https://github.com/momenbasel/PureMac) ⭐ 6,120 | 🐛 2 | 🌐 Swift | 📅 2026-08-21
+* [momenbasel/PureMac: 免费开源的 macOS 清理工具。CleanMyMac 的替代品，无任何遥测。原生 SwiftUI，支持定时自动清理，清理 Xcode/Homebrew/系统缓存。MIT 许可。](https://github.com/momenbasel/PureMac) ⭐ 6,121 | 🐛 2 | 🌐 Swift | 📅 2026-08-21
 * [dodo-reach/hermes-desktop: Hermes 的原生 Mac 工作区：真正的 SSH，真正的终端，真正的会话数据。](https://github.com/dodo-reach/hermes-desktop) ⭐ 2,005 | 🐛 18 | 🌐 Swift | 📅 2026-06-19
 * [momenbasel/keyFinder: Chrome 扩展程序，可在你访问的每个页面上被动发现泄露的 API 密钥、令牌和机密信息。支持 80 多种模式。](https://github.com/momenbasel/keyFinder) ⭐ 704 | 🐛 5 | 🌐 JavaScript | 📅 2026-07-19
 
@@ -345,7 +345,7 @@
 
 ### April 9, 2026
 
-* [safishamsi/graphify: AI 编码助手技能（Claude Code、Codex、OpenCode、OpenClaw、Factory Droid、Trae）。将任何代码、文档、论文或图片文件夹转换为可查询的知识图谱](https://github.com/safishamsi/graphify) ⭐ 112,045 | 🐛 1,165 | 🌐 Python | 📅 2026-08-28
+* [safishamsi/graphify: AI 编码助手技能（Claude Code、Codex、OpenCode、OpenClaw、Factory Droid、Trae）。将任何代码、文档、论文或图片文件夹转换为可查询的知识图谱](https://github.com/safishamsi/graphify) ⭐ 112,061 | 🐛 1,165 | 🌐 Python | 📅 2026-08-28
 * [farzaa/clicky: 它是一个人工智能老师，就像你的伙伴一样陪伴在你的鼠标旁边。它可以看到你的屏幕、和你交流，甚至还能指点东西。有点像真的老师就在你身边。](https://github.com/farzaa/clicky) ⭐ 7,407 | 🐛 74 | 🌐 Swift | 📅 2026-04-28
 * [lifedever/TaskTick: macOS 原生定时任务管理应用 无需 crontab，无需 launchd，交给 TaskTick。](https://github.com/lifedever/TaskTick) ⭐ 462 | 🐛 2 | 🌐 Swift | 📅 2026-08-28
 * [Marvinngg/ambient-voice: macOS 系统的本地环境声音输入与会议转录功能 — 采用了 Apple 语音分析器、Vision 光学字符识别以及 FluidAudio 话筒声源分离技术，完全在本地设备上处理。](https://github.com/Marvinngg/ambient-voice) ⭐ 135 | 🐛 11 | 🌐 Swift | 📅 2026-05-27
@@ -354,7 +354,7 @@
 
 ### April 7, 2026
 
-* [mahonzhan/awesome-coding-plan: 各厂家 Coding Plan 实际价值对比](https://github.com/mahonzhan/awesome-coding-plan) ⭐ 2,765 | 🐛 18 | 📅 2026-08-19
+* [mahonzhan/awesome-coding-plan: 各厂家 Coding Plan 实际价值对比](https://github.com/mahonzhan/awesome-coding-plan) ⭐ 2,766 | 🐛 18 | 📅 2026-08-19
 * [cat3399/blbl: 一个使用原生 Android 开发的哔哩哔哩安卓客户端，支持触摸、遥控，以及安卓 5](https://github.com/cat3399/blbl) ⚠️ Archived
 * [borawong/AiMaMi: 为 OpenAI Codex 打造的桌面伴侣。](https://github.com/borawong/AiMaMi) ⭐ 1,479 | 🐛 98 | 🌐 TypeScript | 📅 2026-08-03
 * [Liubsyy/M3U8Quicker: M3U8 下载器，支持多线程下载、断点续传、边下边播](https://github.com/Liubsyy/M3U8Quicker) ⭐ 206 | 🐛 7 | 🌐 Rust | 📅 2026-08-24
@@ -385,12 +385,12 @@
 
 ### April 2, 2026
 
-* [openai/codex-plugin-cc: 使用 Claude Code 的 Codex 来审查代码或分配任务。](https://github.com/openai/codex-plugin-cc) ⭐ 32,506 | 🐛 442 | 🌐 JavaScript | 📅 2026-07-08
+* [openai/codex-plugin-cc: 使用 Claude Code 的 Codex 来审查代码或分配任务。](https://github.com/openai/codex-plugin-cc) ⭐ 32,507 | 🐛 442 | 🌐 JavaScript | 📅 2026-07-08
 * [szhshp/panda-video-generator: 熊猫视频自动化引擎：用程序员的方式帮你自动化视频创作与发布](https://github.com/szhshp/panda-video-generator) ⭐ 281 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10
 
 ### April 1, 2026
 
-* [osaurus-ai/osaurus: 拥有你的 AI。原生 macOS AI 代理管理工具——支持任何模型，持久记忆，自主执行，密码身份认证。采用 Swift 开发。完全离线。开源。](https://github.com/osaurus-ai/osaurus) ⭐ 7,714 | 🐛 179 | 🌐 Swift | 📅 2026-08-29
+* [osaurus-ai/osaurus: 拥有你的 AI。原生 macOS AI 代理管理工具——支持任何模型，持久记忆，自主执行，密码身份认证。采用 Swift 开发。完全离线。开源。](https://github.com/osaurus-ai/osaurus) ⭐ 7,715 | 🐛 178 | 🌐 Swift | 📅 2026-08-29
 * [nunomaduro/pao: PAO 是针对 PHP 测试工具的代理优化输出。它适用于任何 PHP 项目--Laravel、Symfony、vanilla PHP 或其他任何使用 PHPUnit、Pest 或 Paratest 的项目。](https://github.com/nunomaduro/pao) ⭐ 689 | 🐛 4 | 🌐 PHP | 📅 2026-08-10
 
 ### March 31, 2026
@@ -405,8 +405,8 @@
 
 ### March 29, 2026
 
-* [manaflow-ai/cmux: 基于 Ghostty 的 macOS 终端，支持垂直选项卡和 AI 编码代理的通知功能](https://github.com/manaflow-ai/cmux) ⭐ 26,557 | 🐛 4,638 | 🌐 Swift | 📅 2026-08-29
-* [larksuite/cli: 一个为 Lark/飞书开放平台打造的命令行工具——专为人类和 AI 代理设计。涵盖包括消息、文档、Base、表格、日历、邮件、任务、会议等核心业务领域，拥有 200 多个命令和 19 项 AI 代理技能。](https://github.com/larksuite/cli) ⭐ 16,835 | 🐛 608 | 🌐 Go | 📅 2026-08-29
+* [manaflow-ai/cmux: 基于 Ghostty 的 macOS 终端，支持垂直选项卡和 AI 编码代理的通知功能](https://github.com/manaflow-ai/cmux) ⭐ 26,558 | 🐛 4,638 | 🌐 Swift | 📅 2026-08-29
+* [larksuite/cli: 一个为 Lark/飞书开放平台打造的命令行工具——专为人类和 AI 代理设计。涵盖包括消息、文档、Base、表格、日历、邮件、任务、会议等核心业务领域，拥有 200 多个命令和 19 项 AI 代理技能。](https://github.com/larksuite/cli) ⭐ 16,835 | 🐛 609 | 🌐 Go | 📅 2026-08-29
 * [openilink/openilink-hub: 微信 ClawBot iLink 协议的开源消息管理平台 + App 应用市场](https://github.com/openilink/openilink-hub) ⭐ 1,563 | 🐛 17 | 🌐 Go | 📅 2026-06-18
 * [HMAKT99/UnTouchID: 使用您的手机指纹在任何 Mac 上进行身份验证——sudo、屏幕保护程序、App Store。无需 $199 的 Magic Keyboard。支持 iPhone、Android、Apple Watch、Wear OS 或任何浏览器。兼容 MacBook Neo。](https://github.com/HMAKT99/UnTouchID) ⭐ 294 | 🐛 2 | 🌐 Swift | 📅 2026-08-05
 * [zappzerapp/laravel-ingest: 一个强大的、配置驱动的 Laravel ETL 和数据导入框架。支持 CSV/Excel 流式处理、队列、验证和关系管理。](https://github.com/zappzerapp/laravel-ingest) ⭐ 117 | 🐛 1 | 🌐 PHP | 📅 2026-06-23
@@ -430,17 +430,17 @@
 
 ### March 26, 2026
 
-* [gstory0404/Cinetry: Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件不提供任何数据，整合用户添加的媒体服务器（如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV）的功能。通过强大的数据导入、聚合搜索和一键切换功能，Cinetry 让用户能够轻松管理多台媒体服务器中的内容，并享受一致的用户体验，无论是在 Windows、macOS、Linux、TV、Android 还是 iOS 平台上。](https://github.com/gstory0404/Cinetry) ⭐ 2,844 | 🐛 38 | 📅 2026-06-26
-* [gstory0404/Cinetry: Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件不提供任何数据，整合用户添加的媒体服务器（如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV）的功能。](https://github.com/gstory0404/Cinetry) ⭐ 2,844 | 🐛 38 | 📅 2026-06-26
+* [gstory0404/Cinetry: Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件不提供任何数据，整合用户添加的媒体服务器（如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV）的功能。通过强大的数据导入、聚合搜索和一键切换功能，Cinetry 让用户能够轻松管理多台媒体服务器中的内容，并享受一致的用户体验，无论是在 Windows、macOS、Linux、TV、Android 还是 iOS 平台上。](https://github.com/gstory0404/Cinetry) ⭐ 2,845 | 🐛 38 | 📅 2026-06-26
+* [gstory0404/Cinetry: Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件不提供任何数据，整合用户添加的媒体服务器（如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV）的功能。](https://github.com/gstory0404/Cinetry) ⭐ 2,845 | 🐛 38 | 📅 2026-06-26
 * [devgianlu/Aria2App: Aria2App 是一个基于 aria2 的高级下载管理器，也可以处理远程服务器。](https://github.com/devgianlu/Aria2App) ⭐ 1,551 | 🐛 57 | 🌐 Java | 📅 2026-05-13
 * [ryanstephen/lil-agents: 生活在 macOS 程序坞上的微小人工智能伴侣](https://github.com/ryanstephen/lil-agents) ⭐ 1,441 | 🐛 25 | 🌐 Swift | 📅 2026-04-06
 
 ### March 24, 2026
 
-* [abhigyanpatwari/GitNexus: GitNexus：零服务器代码智能引擎 - GitNexus 是一个完全在浏览器中运行的客户端知识图谱创建工具。只需导入一个 GitHub 仓库或 ZIP 文件，即可获得一个带有内置图谱 RAG 智能体的交互式知识图谱。非常适合代码探索。](https://github.com/abhigyanpatwari/GitNexus) ⭐ 46,185 | 🐛 345 | 🌐 TypeScript | 📅 2026-08-28
+* [abhigyanpatwari/GitNexus: GitNexus：零服务器代码智能引擎 - GitNexus 是一个完全在浏览器中运行的客户端知识图谱创建工具。只需导入一个 GitHub 仓库或 ZIP 文件，即可获得一个带有内置图谱 RAG 智能体的交互式知识图谱。非常适合代码探索。](https://github.com/abhigyanpatwari/GitNexus) ⭐ 46,192 | 🐛 345 | 🌐 TypeScript | 📅 2026-08-28
 * [rudrankriyam/App-Store-Connect-CLI: 快速、可脚本化的命令行工具，用于 App Store Connect API。自动化 TestFlight、构建、提交、签名、分析、截图、订阅等操作。以 JSON 为核心，无需交互式提示。](https://github.com/rudrankriyam/App-Store-Connect-CLI) ⭐ 6,309 | 🐛 4 | 🌐 Go | 📅 2026-08-28
 * [tw93/Kaku: 🎃 一个为 AI 编程打造的快速即用型终端。](https://github.com/tw93/Kaku) ⭐ 5,819 | 🐛 0 | 🌐 Rust | 📅 2026-08-28
-* [tiajinsha/JKVideo: 高颜值的第三方 B 站 React Native 客户端，支持安卓、H5、iOS](https://github.com/tiajinsha/JKVideo) ⭐ 4,996 | 🐛 6 | 🌐 TypeScript | 📅 2026-05-12
+* [tiajinsha/JKVideo: 高颜值的第三方 B 站 React Native 客户端，支持安卓、H5、iOS](https://github.com/tiajinsha/JKVideo) ⭐ 4,997 | 🐛 6 | 🌐 TypeScript | 📅 2026-05-12
 * [raskrebs/sonar: 用于检查和管理监听本地主机端口服务的 CLI 工具](https://github.com/raskrebs/sonar) ⭐ 1,090 | 🐛 10 | 🌐 Go | 📅 2026-05-21
 * [ezimuel/PHPVector: 一个纯 PHP 实现的向量数据库，采用 HNSW（分层可导航小世界）进行近似最近邻搜索，并使用 BM25 进行全文检索。两种引擎可以结合成一个混合搜索流程。](https://github.com/ezimuel/PHPVector) ⭐ 17 | 🐛 1 | 🌐 PHP | 📅 2026-08-17
 
@@ -451,7 +451,7 @@
 
 ### March 22, 2026
 
-* [naxiaoduo/1000UserGuide: 1000UserGuide：对独立开发者和创业者来说，找到前 1000 个早期用户太关键了。这里精心整理了 300 多个国内外渠道，适合独立开发者和创业者推广产品的渠道。](https://github.com/naxiaoduo/1000UserGuide) ⭐ 3,968 | 🐛 26 | 🌐 HTML | 📅 2026-08-13
+* [naxiaoduo/1000UserGuide: 1000UserGuide：对独立开发者和创业者来说，找到前 1000 个早期用户太关键了。这里精心整理了 300 多个国内外渠道，适合独立开发者和创业者推广产品的渠道。](https://github.com/naxiaoduo/1000UserGuide) ⭐ 3,969 | 🐛 26 | 🌐 HTML | 📅 2026-08-13
 * [blitzdotdev/blitz-mac: 原生 macOS 应用程序，利用 AI 代理构建、测试和发布 iOS 应用](https://github.com/blitzdotdev/blitz-mac) ⭐ 1,741 | 🐛 9 | 🌐 Swift | 📅 2026-07-14
 
 ### March 20, 2026
@@ -462,13 +462,13 @@
 
 ### March 19, 2026
 
-* [chenhg5/cc-connect: 将本地 AI 编码代理（Claude Code、Cursor、Gemini CLI、Codex）连接到消息平台（飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信）。无需大多数平台的公网 IP，即可随时随地与您的 AI 开发助手聊天。](https://github.com/chenhg5/cc-connect) ⭐ 15,240 | 🐛 545 | 🌐 Go | 📅 2026-08-29
+* [chenhg5/cc-connect: 将本地 AI 编码代理（Claude Code、Cursor、Gemini CLI、Codex）连接到消息平台（飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信）。无需大多数平台的公网 IP，即可随时随地与您的 AI 开发助手聊天。](https://github.com/chenhg5/cc-connect) ⭐ 15,241 | 🐛 545 | 🌐 Go | 📅 2026-08-29
 * [Emanuele-web04/remodex: Codex 的远程控制。24/7 版本即将推出](https://github.com/Emanuele-web04/remodex) ⭐ 3,294 | 🐛 74 | 🌐 Swift | 📅 2026-08-10
 * [hosmelq/laravel-pulse-schedule: 列出所有计划任务的 Laravel Pulse 卡。](https://github.com/hosmelq/laravel-pulse-schedule) ⭐ 63 | 🐛 4 | 🌐 PHP | 📅 2026-03-18
 
 ### March 18, 2026
 
-* [webadderall/Recordly: 一个免费的开源 Screen Studio 替代品，为你的屏幕录制添加自动缩放、光标动画等功能。](https://github.com/webadderall/Recordly) ⭐ 22,728 | 🐛 272 | 🌐 TypeScript | 📅 2026-08-28
+* [webadderall/Recordly: 一个免费的开源 Screen Studio 替代品，为你的屏幕录制添加自动缩放、光标动画等功能。](https://github.com/webadderall/Recordly) ⭐ 22,732 | 🐛 272 | 🌐 TypeScript | 📅 2026-08-29
 * [jiulingyun/openclaw-cn: 中文社区版 OpenClaw，同原版保持定期更新，已内置钉钉、企业微信、飞书、QQ 以及国内网络环境优化。你的专属个人 AI 助手。支持所有操作系统和平台。🦞](https://github.com/jiulingyun/openclaw-cn) ⭐ 4,719 | 🐛 98 | 🌐 TypeScript | 📅 2026-05-27
 * [red-explosion/laravel-sqids: 为您的 Laravel 模型轻松生成 Stripe/YouTube 外观 ID。](https://github.com/red-explosion/laravel-sqids) ⭐ 53 | 🐛 3 | 🌐 PHP | 📅 2026-06-26
 
@@ -485,10 +485,10 @@
 
 ### March 13, 2026
 
-* [alibaba/page-agent: JavaScript 页面内 GUI 代理。用自然语言控制网页界面。](https://github.com/alibaba/page-agent) ⭐ 28,892 | 🐛 84 | 🌐 TypeScript | 📅 2026-08-24
-* [alibaba/page-agent: JavaScript in-page GUI agent. Control web interfaces with natural language.](https://github.com/alibaba/page-agent) ⭐ 28,892 | 🐛 84 | 🌐 TypeScript | 📅 2026-08-24
+* [alibaba/page-agent: JavaScript 页面内 GUI 代理。用自然语言控制网页界面。](https://github.com/alibaba/page-agent) ⭐ 28,893 | 🐛 84 | 🌐 TypeScript | 📅 2026-08-24
+* [alibaba/page-agent: JavaScript in-page GUI agent. Control web interfaces with natural language.](https://github.com/alibaba/page-agent) ⭐ 28,893 | 🐛 84 | 🌐 TypeScript | 📅 2026-08-24
 * [kepano/defuddle: 以 Markdown 格式获取任何页面的主要内容。](https://github.com/kepano/defuddle) ⭐ 9,204 | 🐛 76 | 🌐 TypeScript | 📅 2026-08-25
-* [antfu-collective/ni: 使用正确的软件包管理器](https://github.com/antfu-collective/ni) ⭐ 8,294 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-06
+* [antfu-collective/ni: 使用正确的软件包管理器](https://github.com/antfu-collective/ni) ⭐ 8,293 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-06
 
 ### March 12, 2026
 
@@ -509,7 +509,7 @@
 
 ### March 9, 2026
 
-* [Wei-Shaw/sub2api: Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai、Gemini、Antigravity 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。](https://github.com/Wei-Shaw/sub2api) ⭐ 39,758 | 🐛 2,897 | 🌐 Go | 📅 2026-08-29
+* [Wei-Shaw/sub2api: Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai、Gemini、Antigravity 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。](https://github.com/Wei-Shaw/sub2api) ⭐ 39,761 | 🐛 2,897 | 🌐 Go | 📅 2026-08-29
 * [mrconter1/rustc-php: 用 PHP 编写的带有所有权检查功能的 Rust 编译器](https://github.com/mrconter1/rustc-php) ⭐ 350 | 🐛 4 | 🌐 PHP | 📅 2026-03-08
 
 ### March 7, 2026
@@ -518,7 +518,7 @@
 
 ### March 5, 2026
 
-* [Lakr233/vphone-cli: 通过苹果的 Virtualization.framework，以及 PCC 研究虚拟机基础设施，启动一个虚拟的 iPhone(iOS 26)。](https://github.com/Lakr233/vphone-cli) ⭐ 8,728 | 🐛 23 | 🌐 Swift | 📅 2026-08-29
+* [Lakr233/vphone-cli: 通过苹果的 Virtualization.framework，以及 PCC 研究虚拟机基础设施，启动一个虚拟的 iPhone(iOS 26)。](https://github.com/Lakr233/vphone-cli) ⭐ 8,758 | 🐛 23 | 🌐 Swift | 📅 2026-08-29
 * [metaspartan/mactop: mactop 是一个基于终端的监控工具“top”，旨  在显示 Carsen Klock 编写的 Apple Silicon 芯片的实时指标。它提供了一种简单有效的方法来直接从终端监控 CPU 和 GPU 使用情况、E 核和 P 核、功耗、GPU 频率、温度和其他系统指标](https://github.com/metaspartan/mactop) ⭐ 1,590 | 🐛 7 | 🌐 Go | 📅 2026-07-29
 * [hehehai/voxt: macOS 的语音输入和翻译应用。按下说话，释放粘贴。](https://github.com/hehehai/voxt) ⭐ 801 | 🐛 0 | 🌐 Swift | 📅 2026-08-25
 * [Aayush9029/petal: Petal 是一款本地 macOS 菜单栏应用程序，用于快速、本地优先转录音频。](https://github.com/Aayush9029/petal) ⭐ 265 | 🐛 1 | 🌐 Swift | 📅 2026-07-25
@@ -530,7 +530,7 @@
 ### March 2, 2026
 
 * [Sjj1024/PakePlus-Android: 轻松将任意网站/HTML/Vue/React 等项目构建为轻量级（小于 5M）多端桌面应用和手机应用仅需几分钟。](https://github.com/Sjj1024/PakePlus-Android) ⭐ 9,748 | 🐛 3 | 🌐 Lua | 📅 2026-06-02
-* [34306/vphone-aio: 1 个脚本运行 vphone(iOS 26.1)，已越狱并安装了完整的引导程序](https://github.com/34306/vphone-aio) ⭐ 6,707 | 🐛 31 | 🌐 Shell | 📅 2026-08-27
+* [34306/vphone-aio: 1 个脚本运行 vphone(iOS 26.1)，已越狱并安装了完整的引导程序](https://github.com/34306/vphone-aio) ⭐ 6,708 | 🐛 31 | 🌐 Shell | 📅 2026-08-27
 * [Adembc/lazyssh: Lazyssh 是一个基于终端的交互式 SSH 管理器，灵感来自于 lazydocker 和 k9s 等工具——但旨在直接从终端管理您的服务器集群。](https://github.com/Adembc/lazyssh) ⭐ 3,898 | 🐛 66 | 🌐 Go | 📅 2025-10-09
 * [mantou132/Spotify-Lyrics: 桌面 Spotify 网络播放器即时同步歌词](https://github.com/mantou132/Spotify-Lyrics) ⭐ 1,053 | 🐛 21 | 🌐 JavaScript | 📅 2026-07-02
 
@@ -561,7 +561,7 @@
 
 ### February 13, 2026
 
-* [github/gh-aw：使用自然语言 Markdown 编写智能体工作流，并在 GitHub Actions 中运行它们。](https://github.com/github/gh-aw) ⭐ 5,031 | 🐛 361 | 🌐 Go | 📅 2026-08-29
+* [github/gh-aw：使用自然语言 Markdown 编写智能体工作流，并在 GitHub Actions 中运行它们。](https://github.com/github/gh-aw) ⭐ 5,031 | 🐛 362 | 🌐 Go | 📅 2026-08-29
 * [medvio/move-to-screen: 使用 ⌃⌥ + 方向键在显示器之间移动窗口。](https://github.com/medvio/move-to-screen) ⭐ 2 | 🐛 0 | 🌐 Swift | 📅 2026-02-12
 
 ### February 12, 2026
@@ -599,7 +599,7 @@
 
 ### February 5, 2026
 
-* [lucasgelfond/zerobrew: 即插即用，速度提升 5 至 20 倍，实验性的 Homebrew 替代品。](https://github.com/lucasgelfond/zerobrew) ⭐ 7,535 | 🐛 41 | 🌐 Rust | 📅 2026-08-19
+* [lucasgelfond/zerobrew: 即插即用，速度提升 5 至 20 倍，实验性的 Homebrew 替代品。](https://github.com/lucasgelfond/zerobrew) ⭐ 7,534 | 🐛 41 | 🌐 Rust | 📅 2026-08-19
 * [FantasticFiasco/action-update-license-year: 拉取请求中的 GitHub 操作会更新许可证文件中的版权年份。](https://github.com/FantasticFiasco/action-update-license-year) ⭐ 70 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-29
 * [VortexOne404/slipstream-client-android: Slipstream 客户端是一个轻量级和模块化的 Android 客户端：](https://github.com/VortexOne404/slipstream-client-android) ⭐ 54 | 🐛 10 | 🌐 Kotlin | 📅 2026-02-07
 
@@ -621,7 +621,7 @@
 
 ### February 1, 2026
 
-* [openclaw/openclaw: OpenClaw 是一款个人 AI 助手，用户可以在自己的设备上运行它。该助手支持在用户已使用的多个频道上提供回答，包括 WhatsApp、Telegram、Slack、Discord、Google Chat、Signal、iMessage、Microsoft Teams 和 WebChat，还支持 BlueBubbles、Matrix、Zalo 及 Zalo Personal 等扩展频道。它能够在 macOS、iOS 和 Android 系统上实现语音交互，并能渲染用户可控制的实时画布界面。](https://github.com/openclaw/openclaw) ⭐ 387,940 | 🐛 5,726 | 🌐 TypeScript | 📅 2026-08-29
+* [openclaw/openclaw: OpenClaw 是一款个人 AI 助手，用户可以在自己的设备上运行它。该助手支持在用户已使用的多个频道上提供回答，包括 WhatsApp、Telegram、Slack、Discord、Google Chat、Signal、iMessage、Microsoft Teams 和 WebChat，还支持 BlueBubbles、Matrix、Zalo 及 Zalo Personal 等扩展频道。它能够在 macOS、iOS 和 Android 系统上实现语音交互，并能渲染用户可控制的实时画布界面。](https://github.com/openclaw/openclaw) ⭐ 387,946 | 🐛 5,721 | 🌐 TypeScript | 📅 2026-08-29
 * [harris21/laravel-fuse: Laravel 队列作业的断路器](https://github.com/harris21/laravel-fuse) ⭐ 486 | 🐛 0 | 🌐 PHP | 📅 2026-08-26
 * [loilo/Fuse: PHP 的模糊搜索库](https://github.com/loilo/Fuse) ⭐ 365 | 🐛 4 | 🌐 PHP | 📅 2026-04-04
 
@@ -637,7 +637,7 @@
 
 ### January 22, 2026
 
-* [affaan-m/everything-claude-code: 完整的 Claude Code 配置集合 - 代理，技能，钩子，命令，规则，MCP。](https://github.com/affaan-m/everything-claude-code) ⭐ 243,990 | 🐛 151 | 🌐 JavaScript | 📅 2026-08-29
+* [affaan-m/everything-claude-code: 完整的 Claude Code 配置集合 - 代理，技能，钩子，命令，规则，MCP。](https://github.com/affaan-m/everything-claude-code) ⭐ 243,994 | 🐛 146 | 🌐 JavaScript | 📅 2026-08-29
 * [LinWanCen/show-comment: IDEA 插件：在文件树、行末、JSON、COBOL 显示注释](https://github.com/LinWanCen/show-comment) ⭐ 136 | 🐛 19 | 🌐 Java | 📅 2026-07-01
 * [waadmawlood/truffle: 内存驱动程序数据库 Eloquent 模型连接的 Laravel 包](https://github.com/waadmawlood/truffle) ⭐ 49 | 🐛 0 | 🌐 PHP | 📅 2026-03-25
 
@@ -658,7 +658,7 @@
 
 ### January 18, 2026
 
-* [chatfire-AI/huobao-drama: 🎬 一句话生成完整短剧，从剧本到成片全自动化](https://github.com/chatfire-AI/huobao-drama) ⭐ 14,212 | 🐛 1 | 🌐 Vue | 📅 2026-08-18
+* [chatfire-AI/huobao-drama: 🎬 一句话生成完整短剧，从剧本到成片全自动化](https://github.com/chatfire-AI/huobao-drama) ⭐ 14,214 | 🐛 1 | 🌐 Vue | 📅 2026-08-18
 * [HPWebdeveloper/laravel-stateflow: Laravel Eloquent 模型的现代企业就绪状态机实现。](https://github.com/HPWebdeveloper/laravel-stateflow) ⭐ 34 | 🐛 10 | 🌐 PHP | 📅 2026-05-01
 
 ### January 16, 2026
@@ -672,7 +672,7 @@
 
 ### January 14, 2026
 
-* [farion1231/cc-switch: Claude Code 的跨平台桌面一体化辅助工具，Codex Gemini CLI。](https://github.com/farion1231/cc-switch) ⭐ 129,947 | 🐛 2,521 | 🌐 Rust | 📅 2026-08-28
+* [farion1231/cc-switch: Claude Code 的跨平台桌面一体化辅助工具，Codex Gemini CLI。](https://github.com/farion1231/cc-switch) ⭐ 129,951 | 🐛 2,524 | 🌐 Rust | 📅 2026-08-28
 * [staabm/annotate-pull-request-from-checkstyle: CS2PR-根据您的 GitHub 操作中的 CheckStyle XML 报告注释 GitHub Pull 请求](https://github.com/staabm/annotate-pull-request-from-checkstyle) ⭐ 202 | 🐛 5 | 🌐 PHP | 📅 2026-06-08
 * [DaveLiddament/phpstan-php-language-extensions: 用于验证 PHP 语言扩展的 PHPStan 扩展](https://github.com/DaveLiddament/phpstan-php-language-extensions) ⭐ 45 | 🐛 1 | 🌐 PHP | 📅 2025-11-29
 * [jbelien/phpstan-sarif-formatter: PHPSTAN 的 SARIF 格式化程序](https://github.com/jbelien/phpstan-sarif-formatter) ⭐ 13 | 🐛 1 | 🌐 PHP | 📅 2026-08-16
@@ -682,7 +682,7 @@
 
 ### January 13, 2026
 
-* [vercel-labs/agent-browser: 用于人工智能代理的无头浏览器自动化 CLI。带有 Node.js 回退功能的快速 Rust CLI。](https://github.com/vercel-labs/agent-browser) ⭐ 41,514 | 🐛 672 | 🌐 Rust | 📅 2026-08-26
+* [vercel-labs/agent-browser: 用于人工智能代理的无头浏览器自动化 CLI。带有 Node.js 回退功能的快速 Rust CLI。](https://github.com/vercel-labs/agent-browser) ⭐ 41,515 | 🐛 672 | 🌐 Rust | 📅 2026-08-26
 * [open-meteo/open-meteo: Open-Meteo 是一个开源天气 API，提供非商业用途的免费访问。无需 API 密钥。您可以立即使用它！](https://github.com/open-meteo/open-meteo) ⭐ 6,101 | 🐛 146 | 🌐 Swift | 📅 2026-08-28
 
 ### January 12, 2026
@@ -699,7 +699,7 @@
 
 ### January 10, 2026
 
-* [Fission-AI/OpenSpec: 人工智能编码助手功能强大，但当需求存在于聊天记录中时却难以预测。OpenSpec 增加了一个轻量级的规范工作流程，可在实施前锁定意图，为您提供确定的、可审查的输出。](https://github.com/Fission-AI/OpenSpec) ⭐ 66,582 | 🐛 200 | 🌐 TypeScript | 📅 2026-08-28
+* [Fission-AI/OpenSpec: 人工智能编码助手功能强大，但当需求存在于聊天记录中时却难以预测。OpenSpec 增加了一个轻量级的规范工作流程，可在实施前锁定意图，为您提供确定的、可审查的输出。](https://github.com/Fission-AI/OpenSpec) ⭐ 66,583 | 🐛 200 | 🌐 TypeScript | 📅 2026-08-28
 * [crate-ci/typos: 源代码拼写检查器](https://github.com/crate-ci/typos) ⭐ 4,115 | 🐛 155 | 🌐 Rust | 📅 2026-08-28
 * [Paymenter/Paymenter: Paymenter 是一个为托管公司量身定制的开源计费平台。它简化了托管服务的管理，为提供商和客户提供无缝的体验。](https://github.com/Paymenter/Paymenter) ⭐ 2,272 | 🐛 74 | 🌐 PHP | 📅 2026-08-28
 
@@ -715,7 +715,7 @@
 
 ### January 7, 2026
 
-* [NEKOparapa/AiNiee: 一款专注于 Ai 翻译的工具，一键自动翻译 RPG SLG 游戏，Epub TXT 小说，PDF Word MD 文档，Srt Vtt Lrc 字幕等等复杂长文本。](https://github.com/NEKOparapa/AiNiee) ⭐ 6,186 | 🐛 27 | 🌐 Python | 📅 2026-08-21
+* [NEKOparapa/AiNiee: 一款专注于 Ai 翻译的工具，一键自动翻译 RPG SLG 游戏，Epub TXT 小说，PDF Word MD 文档，Srt Vtt Lrc 字幕等等复杂长文本。](https://github.com/NEKOparapa/AiNiee) ⭐ 6,187 | 🐛 27 | 🌐 Python | 📅 2026-08-21
 
 ### January 6, 2026
 
@@ -723,11 +723,11 @@
 
 ### January 5, 2026
 
-* [code-yeongyu/oh-my-opencode: 致力于引发一场软件革命，创造一个 AI 生成的代码与人类代码无法区分、却能实现更多的世界。](https://github.com/code-yeongyu/oh-my-opencode) ⭐ 68,490 | 🐛 988 | 🌐 TypeScript | 📅 2026-08-29
+* [code-yeongyu/oh-my-opencode: 致力于引发一场软件革命，创造一个 AI 生成的代码与人类代码无法区分、却能实现更多的世界。](https://github.com/code-yeongyu/oh-my-opencode) ⭐ 68,490 | 🐛 989 | 🌐 TypeScript | 📅 2026-08-29
 
 ### January 4, 2026
 
-* [Lake1059/FFmpegFreeUI: FFmpegFreeUI（简称 3FUI）是在 Windows 上的 FFmpeg 的专业交互外壳，目前使用。NET 10 运行时以纯 WinForm 框架开发，使用 SunnyUI 和自绘制打造的专业高效的暗黑风格界面。目标做一款轻度专业参数调整的转码软件，让普通人能够通过图形化界面接触到较为全面的通用参数来轻松压制和转换格式。](https://github.com/Lake1059/FFmpegFreeUI) ⭐ 8,076 | 🐛 1 | 🌐 Visual Basic .NET | 📅 2026-08-27
+* [Lake1059/FFmpegFreeUI: FFmpegFreeUI（简称 3FUI）是在 Windows 上的 FFmpeg 的专业交互外壳，目前使用。NET 10 运行时以纯 WinForm 框架开发，使用 SunnyUI 和自绘制打造的专业高效的暗黑风格界面。目标做一款轻度专业参数调整的转码软件，让普通人能够通过图形化界面接触到较为全面的通用参数来轻松压制和转换格式。](https://github.com/Lake1059/FFmpegFreeUI) ⭐ 8,077 | 🐛 1 | 🌐 Visual Basic .NET | 📅 2026-08-27
 
 ### January 3, 2026
 
@@ -739,7 +739,7 @@
 
 ### January 1, 2026
 
-* [ChrisTitusTech/winutil: 该工具是我在每个使用的 Windows 系统上执行的 Windows 任务的汇编。它旨在简化安装，使用调整进行去膨胀，使用配置进行故障排除，以及修复 Windows 更新。我对任何贡献都非常挑剔，以保持该项目的整洁和高效。](https://github.com/ChrisTitusTech/winutil) ⭐ 61,394 | 🐛 31 | 🌐 PowerShell | 📅 2026-08-24
+* [ChrisTitusTech/winutil: 该工具是我在每个使用的 Windows 系统上执行的 Windows 任务的汇编。它旨在简化安装，使用调整进行去膨胀，使用配置进行故障排除，以及修复 Windows 更新。我对任何贡献都非常挑剔，以保持该项目的整洁和高效。](https://github.com/ChrisTitusTech/winutil) ⭐ 61,395 | 🐛 31 | 🌐 PowerShell | 📅 2026-08-24
 * [MrPunyapal/PestStan: Pest PHP 测试框架的 PHPStan 扩展。](https://github.com/MrPunyapal/PestStan) ⚠️ Archived
 
 ***
